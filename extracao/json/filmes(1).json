@@ -1,0 +1,2237 @@
+[
+  {
+    "titulo": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes",
+    "titulo_original": "Rebel Moon - Part Two: The Scargiver",
+    "visao_geral": "Conforme os rebeldes se preparam para a batalha contra as forças implacáveis do Mundo-Mãe, laços são forjados, heróis emergem e lendas nascem.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 123,
+    "id_filme": 934632,
+    "id_imdb": "tt23137904",
+    "media_de_votos": 6.093,
+    "total_votos": 744,
+    "popularidade": 671.638,
+    "receita": 0,
+    "produtoras": [
+      "The Stone Quarry",
+      "Grand Electric"
+    ]
+  },
+  {
+    "titulo": "Duna",
+    "titulo_original": "Dune",
+    "visao_geral": "Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.",
+    "generos": [
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 155,
+    "id_filme": 438631,
+    "id_imdb": "tt1160419",
+    "media_de_votos": 7.779,
+    "total_votos": 11599,
+    "popularidade": 571.112,
+    "receita": 407573628,
+    "produtoras": [
+      "Legendary Pictures"
+    ]
+  },
+  {
+    "titulo": "Guerra nas Estrelas",
+    "titulo_original": "Star Wars",
+    "visao_geral": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
+    "generos": [
+      "Aventura",
+      "Ação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 121,
+    "id_filme": 11,
+    "id_imdb": "tt0076759",
+    "media_de_votos": 8.2,
+    "total_votos": 19989,
+    "popularidade": 470.783,
+    "receita": 775398007,
+    "produtoras": [
+      "Lucasfilm Ltd.",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "Alien: O Oitavo Passageiro",
+    "titulo_original": "Alien",
+    "visao_geral": "Quando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.",
+    "generos": [
+      "Terror",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 117,
+    "id_filme": 348,
+    "id_imdb": "tt0078748",
+    "media_de_votos": 8.153,
+    "total_votos": 13932,
+    "popularidade": 431.9,
+    "receita": 104931801,
+    "produtoras": [
+      "20th Century Fox",
+      "Brandywine Productions"
+    ]
+  },
+  {
+    "titulo": "2001: Uma Odisséia no Espaço",
+    "titulo_original": "2001: A Space Odyssey",
+    "visao_geral": "Desde a “Aurora do Homem” (a pré-história), um misterioso monólito negro parece emitir sinais de outra civilização, assim interferindo no nosso planeta. Quatro milhões de anos depois, no século XXI, uma equipe de astronautas liderados pelo experiente David Bowman e Frank Poole é enviada ao planeta Júpiter para investigar o enigmático monólito na nave Discovery, totalmente controlada pelo computador HAL-9000. Entretanto, no meio da viagem, HAL-9000 entra em pane e tenta assumir o controle da nave, eliminando um a um os tripulantes.",
+    "generos": [
+      "Ficção científica",
+      "Mistério",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 148,
+    "id_filme": 62,
+    "id_imdb": "tt0062622",
+    "media_de_votos": 8.078,
+    "total_votos": 11086,
+    "popularidade": 426.828,
+    "receita": 71923560,
+    "produtoras": [
+      "Stanley Kubrick Productions",
+      "Metro-Goldwyn-Mayer"
+    ]
+  },
+  {
+    "titulo": "Interestelar",
+    "titulo_original": "Interstellar",
+    "visao_geral": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 169,
+    "id_filme": 157336,
+    "id_imdb": "tt0816692",
+    "media_de_votos": 8.434,
+    "total_votos": 34323,
+    "popularidade": 422.571,
+    "receita": 701729206,
+    "produtoras": [
+      "Legendary Pictures",
+      "Syncopy",
+      "Lynda Obst Productions"
+    ]
+  },
+  {
+    "titulo": "Alien: Covenant",
+    "titulo_original": "Alien: Covenant",
+    "visao_geral": "Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David como habitante solitário.",
+    "generos": [
+      "Ficção científica",
+      "Terror",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 122,
+    "id_filme": 126889,
+    "id_imdb": "tt2316204",
+    "media_de_votos": 6.1,
+    "total_votos": 8183,
+    "popularidade": 409.548,
+    "receita": 240891763,
+    "produtoras": [
+      "Scott Free Productions",
+      "20th Century Fox",
+      "Brandywine Productions"
+    ]
+  },
+  {
+    "titulo": "Planeta dos Macacos",
+    "titulo_original": "Planet of the Apes",
+    "visao_geral": "Após sofrer um acidente na espaçonave em que estava, Leo Davidson chega em um planeta estranho e primitivo, onde os humanos migalham por sua subsistência, são caçados e escravizados por primatas tiranos, que formam o poder local. Sem concordar com a opressão imposta à raça humana, Leo logo se torna uma séria ameaça ao status quo local e dá início à uma revolução social no planeta.",
+    "generos": [
+      "Thriller",
+      "Ficção científica",
+      "Ação",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 119,
+    "id_filme": 869,
+    "id_imdb": "tt0133152",
+    "media_de_votos": 5.744,
+    "total_votos": 3884,
+    "popularidade": 386.69,
+    "receita": 362211740,
+    "produtoras": [
+      "20th Century Fox",
+      "The Zanuck Company"
+    ]
+  },
+  {
+    "titulo": "Gravidade",
+    "titulo_original": "Gravity",
+    "visao_geral": "Matt Kowalski é um astronauta experiente que está em missão de conserto ao telescópio Hubble juntamente com a doutora Ryan Stone. Ambos são surpreendidos por uma chuva de destroços decorrente da destruição de um satélite por um míssil russo, que faz com que sejam jogados no espaço sideral. Sem qualquer apoio da base terrestre da NASA, eles precisam encontrar um meio de sobreviver em meio a um ambiente completamente inóspito para a vida humana.",
+    "generos": [
+      "Ficção científica",
+      "Thriller",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 91,
+    "id_filme": 49047,
+    "id_imdb": "tt1454468",
+    "media_de_votos": 7.164,
+    "total_votos": 14925,
+    "popularidade": 368.72,
+    "receita": 723192705,
+    "produtoras": [
+      "Esperanto Filmoj",
+      "Warner Bros. Pictures",
+      "Heyday Films"
+    ]
+  },
+  {
+    "titulo": "O Planeta dos Macacos",
+    "titulo_original": "Planet of the Apes",
+    "visao_geral": "George Taylor, um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Drama",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 108,
+    "id_filme": 871,
+    "id_imdb": "tt0063442",
+    "media_de_votos": 7.659,
+    "total_votos": 3334,
+    "popularidade": 257.557,
+    "receita": 32589624,
+    "produtoras": [
+      "APJAC Productions",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "O Vingador do Futuro",
+    "titulo_original": "Total Recall",
+    "visao_geral": "No ano de 2084, o operário Doug Quaid recorre a um implante de memória para poder simular uma viagem a Marte. Mas algo sai errado e ele começa a se lembrar de quem realmente era e de fatos que, até então, desconhecia. Agora, Quaid quer vingança contra aqueles que o enganaram.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 113,
+    "id_filme": 861,
+    "id_imdb": "tt0100802",
+    "media_de_votos": 7.301,
+    "total_votos": 5543,
+    "popularidade": 250.32,
+    "receita": 261317921,
+    "produtoras": [
+      "Carolco Pictures",
+      "Ronald Shusett/Gary Goldman Productions",
+      "TriStar Pictures"
+    ]
+  },
+  {
+    "titulo": "Tempestade: Planeta em Fúria",
+    "titulo_original": "Geostorm",
+    "visao_geral": "E se, após mais de uma década de desastres naturais devastadores, nós descobríssemos uma forma de controlar a mãe natureza e a destruição que ela carrega? Quando uma mudança catastrófica do clima ameaça a sobrevivência da terra, os governos mundiais se unem e criam o Projeto Dutch Boy: uma rede global de satélites ao redor do planeta armados com tecnologias de geo-engenharia desenvolvidas para impedir os desastres naturais. Após proteger o planeta com sucesso por dois anos, algo começa a dar errado. Dois irmão afastados são encarregados de resolver um defeito no funcionamento do programa antes que uma tempestade mundial acabe com tudo.",
+    "generos": [
+      "Ação",
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 109,
+    "id_filme": 274855,
+    "id_imdb": "tt1981128",
+    "media_de_votos": 6.119,
+    "total_votos": 4634,
+    "popularidade": 245.826,
+    "receita": 221600160,
+    "produtoras": [
+      "Twisted Media",
+      "Skydance Media",
+      "RatPac Entertainment",
+      "Electric Entertainment",
+      "Warner Bros. Pictures",
+      "October Pictures"
+    ]
+  },
+  {
+    "titulo": "Duna",
+    "titulo_original": "Dune",
+    "visao_geral": "Em 10.190 D.C., um duque e sua família são mandados pelo Imperador para Arrakis, um árido planeta conhecido como Duna, que tem uma matéria essencial às viagens interplanetárias: a Especiaria. O motivo desta mudança é que o Imperador planeja destruir o duque e sua família, mas seu filho escapa e procura se vingar usando a ecologia deste mundo como uma de suas armas.",
+    "generos": [
+      "Ação",
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 136,
+    "id_filme": 841,
+    "id_imdb": "tt0087182",
+    "media_de_votos": 6.185,
+    "total_votos": 2838,
+    "popularidade": 224.415,
+    "receita": 30982607,
+    "produtoras": [
+      "Dino De Laurentiis Company"
+    ]
+  },
+  {
+    "titulo": "Prometheus",
+    "titulo_original": "Prometheus",
+    "visao_geral": "Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 124,
+    "id_filme": 70981,
+    "id_imdb": "tt1446714",
+    "media_de_votos": 6.549,
+    "total_votos": 11721,
+    "popularidade": 222.597,
+    "receita": 403354469,
+    "produtoras": [
+      "Dune Entertainment",
+      "Scott Free Productions",
+      "20th Century Fox",
+      "Brandywine Productions"
+    ]
+  },
+  {
+    "titulo": "Passageiros",
+    "titulo_original": "Passengers",
+    "visao_geral": "Uma nave espacial viajando para uma colônia em um distante planeta e transportando milhares de pessoas tem um mau funcionamento em suas câmaras do sono. Como resultado, dois passageiros são despertados 90 anos antes.",
+    "generos": [
+      "Drama",
+      "Romance",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 116,
+    "id_filme": 274870,
+    "id_imdb": "tt1355644",
+    "media_de_votos": 6.944,
+    "total_votos": 12871,
+    "popularidade": 209.33,
+    "receita": 303144152,
+    "produtoras": [
+      "Wanda Pictures",
+      "Columbia Pictures",
+      "Village Roadshow Pictures",
+      "Original Film",
+      "Company Films",
+      "Start Motion Pictures",
+      "LStar Capital"
+    ]
+  },
+  {
+    "titulo": "O Quinto Elemento",
+    "titulo_original": "The Fifth Element",
+    "visao_geral": "No século XXIII, um motorista de taxi de Nova York se envolve em uma aventura na qual tem de deter um ser demoníaco que percorre a galáxia a cada cinco mil anos. Se nada for feito, a Terra será destruída. Mas para isto, ele precisa encontrar quatro pedras antigas que representam os elementos e colocá-las em volta de uma bela mulher, que é o quinto elemento.",
+    "generos": [
+      "Aventura",
+      "Fantasia",
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 125,
+    "id_filme": 18,
+    "id_imdb": "tt0119116",
+    "media_de_votos": 7.546,
+    "total_votos": 10398,
+    "popularidade": 193.766,
+    "receita": 263920180,
+    "produtoras": [
+      "Gaumont",
+      "Columbia Pictures"
+    ]
+  },
+  {
+    "titulo": "O Paradoxo Cloverfield",
+    "titulo_original": "The Cloverfield Paradox",
+    "visao_geral": "Orbitando um planeta à beira da guerra, cientistas testam um dispositivo para resolver uma crise de energia e acabam cara a cara com uma realidade alternativa obscura.",
+    "generos": [
+      "Terror",
+      "Ficção científica",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 102,
+    "id_filme": 384521,
+    "id_imdb": "tt2548396",
+    "media_de_votos": 5.601,
+    "total_votos": 3125,
+    "popularidade": 161.251,
+    "receita": 0,
+    "produtoras": [
+      "Paramount",
+      "Bad Robot"
+    ]
+  },
+  {
+    "titulo": "Gattaca: A Experiência Genética",
+    "titulo_original": "Gattaca",
+    "visao_geral": "Num futuro no qual os seres humanos são criados geneticamente em laboratórios, as pessoas concebidas biologicamente são consideradas \"inválidas\". Vincent um \"inválido\", consegue um lugar de destaque em uma corporação, escondendo sua verdadeira origem. Mas um misterioso caso de assassinato pode expor seu passado.",
+    "generos": [
+      "Thriller",
+      "Ficção científica",
+      "Mistério",
+      "Romance"
+    ],
+    "tempo_duracao(minutos)": 106,
+    "id_filme": 782,
+    "id_imdb": "tt0119177",
+    "media_de_votos": 7.557,
+    "total_votos": 6085,
+    "popularidade": 156.109,
+    "receita": 12532777,
+    "produtoras": [
+      "Jersey Films",
+      "Columbia Pictures"
+    ]
+  },
+  {
+    "titulo": "Alien 3",
+    "titulo_original": "Alien³",
+    "visao_geral": "A tenente Ripley é encarregada de ir a um planeta que é usado como colônia penal de segurança máxima. Este é o novo palco de assassinatos do Alien, que está matando tudo o que se move, menos a própria tenente Ripley, que aparentemente não é atacada pelo monstro.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Terror"
+    ],
+    "tempo_duracao(minutos)": 114,
+    "id_filme": 8077,
+    "id_imdb": "tt0103644",
+    "media_de_votos": 6.4,
+    "total_votos": 5335,
+    "popularidade": 154.213,
+    "receita": 159773545,
+    "produtoras": [
+      "20th Century Fox",
+      "Brandywine Productions"
+    ]
+  },
+  {
+    "titulo": "De Volta ao Planeta dos Macacos",
+    "titulo_original": "Beneath the Planet of the Apes",
+    "visao_geral": "Tentando resgatar Taylor, que desapareceu na missão anterior, Brent  um outro astronauta, atravessa uma fenda do tempo e chega até 3955 D.C. Porém sua nave se espatifa no mesmo planeta em que Taylor desapareceu. Ao ir para a Zona Proibida, Brent gradativamente vê que aquilo são os escombros de Nova York. Paralelamente os símios resolvem atacar a Zona Proibida, que Brent ao explorar descobre uma raça de mutantes, que se comunicam telepaticamente e que adoram uma bomba atômica, que é capaz de destruir a Terra inteira.",
+    "generos": [
+      "Aventura",
+      "Ficção científica",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 94,
+    "id_filme": 1685,
+    "id_imdb": "tt0065462",
+    "media_de_votos": 6.177,
+    "total_votos": 1236,
+    "popularidade": 151.929,
+    "receita": 18999718,
+    "produtoras": [
+      "APJAC Productions",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "Rebel Moon - Parte 1: A Menina do Fogo",
+    "titulo_original": "Rebel Moon - Part One: A Child of Fire",
+    "visao_geral": "Quando as forças implacáveis do Mundo-Mãe ameaçam um pacato vilarejo agrícola numa lua distante, uma misteriosa forasteira torna-se sua maior esperança de sobrevivência.",
+    "generos": [
+      "Ficção científica",
+      "Drama",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 136,
+    "id_filme": 848326,
+    "id_imdb": "tt14998742",
+    "media_de_votos": 6.37,
+    "total_votos": 1815,
+    "popularidade": 146.652,
+    "receita": 0,
+    "produtoras": [
+      "The Stone Quarry",
+      "Grand Electric"
+    ]
+  },
+  {
+    "titulo": "Jason X",
+    "titulo_original": "Jason X",
+    "visao_geral": "O ano é 2455. A Terra é um planeta envenenado, árido e abandonado há séculos. Uma nave com um grupo de jovens exploradores pousa no planeta, próximo ao Crystal Lake, em busca de relíquias ancestrais que possam valer um bom dinheiro. No que parece ser um antigo sistema prisional e de pesquisas científicas, o grupo encontra dois corpos congelados em perfeito estado. Um deles é de uma garota e o outro é de um homem. Os jovens decidem levá-los para sua nave a fim de estudá-los e se possível, regenerá-los. Eles nem imaginam o terrível destino que os aguarda. Eles desconhecem que o homem congelado é Jason X, uma verdadeira e invencível máquina de matar que viveu e foi acidentalmente congelado no século 20. E que ele entrou em processo de descongelamento...",
+    "generos": [
+      "Terror",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 92,
+    "id_filme": 11470,
+    "id_imdb": "tt0211443",
+    "media_de_votos": 4.841,
+    "total_votos": 1280,
+    "popularidade": 137.662,
+    "receita": 16951798,
+    "produtoras": [
+      "Crystal Lake Entertainment",
+      "Sean S. Cunningham Films"
+    ]
+  },
+  {
+    "titulo": "Corrida Silenciosa",
+    "titulo_original": "Silent Running",
+    "visao_geral": "Um tripulante de uma nave espacial que abriga as últimas reservas botânicas da Terra se rebela quando ele é instruído a abandonar seu projeto e voltar para casa, mergulhando na escuridão espacial após sequestrar a nave.",
+    "generos": [
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 89,
+    "id_filme": 811,
+    "id_imdb": "tt0067756",
+    "media_de_votos": 6.435,
+    "total_votos": 536,
+    "popularidade": 115.195,
+    "receita": 0,
+    "produtoras": [
+      "Universal Pictures",
+      "Trumbull/Gruskoff Productions"
+    ]
+  },
+  {
+    "titulo": "Vida",
+    "titulo_original": "Life",
+    "visao_geral": "Um time de cientistas a bordo da Estação Espacial Internacional cuja missão de descoberta se transforma em medo puro quando eles encontram uma forma de vida em desenvolvimento que causou a extinção da vida em Marte e agora ameaça a tripulação e a vida na Terra.",
+    "generos": [
+      "Terror",
+      "Ficção científica",
+      "Mistério",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 103,
+    "id_filme": 395992,
+    "id_imdb": "tt5442430",
+    "media_de_votos": 6.436,
+    "total_votos": 7098,
+    "popularidade": 111.985,
+    "receita": 100541806,
+    "produtoras": [
+      "Columbia Pictures",
+      "Skydance Media"
+    ]
+  },
+  {
+    "titulo": "Aliens: O Resgate",
+    "titulo_original": "Aliens",
+    "visao_geral": "Cinquenta e quatro anos após escapar da \"Nostromo\", a tenente Ripley é encontrada a flutuar, perdida no espaço, ainda adormecida. De volta ao nosso planeta, ela conta tudo o que lhe aconteceu, mas ninguém acredita realmente nela, ou lhe parece dar crédito, até que uma colónia de humanos, entretanto criada no planeta onde ela encontrou o primeiro Alienígena, deixa de emitir comunicações subitamente. Ela então é convocada para auxiliar uma expedição militar ao local, sendo a única aparentemente consciente de que o pesadelo está longe do fim.",
+    "generos": [
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 135,
+    "id_filme": 679,
+    "id_imdb": "tt0090605",
+    "media_de_votos": 7.939,
+    "total_votos": 9219,
+    "popularidade": 111.069,
+    "receita": 183316455,
+    "produtoras": [
+      "SLM Production Group",
+      "20th Century Fox",
+      "Brandywine Productions"
+    ]
+  },
+  {
+    "titulo": "Star Trek",
+    "titulo_original": "Star Trek",
+    "visao_geral": "A bordo da USS Enterprise, a nave mais sofisticada já construída, uma tripulação de novatos embarca em sua viagem inaugural, que é atrapalhada por Nero, um comandante cuja vingança ameaça toda a humanidade. Para que os humanos possam sobreviver, James Kirk, um jovem oficial rebelde, e Spock, um Vulcan completamente lógico, devem superar a rivalidade que há entre eles e encontrar uma maneira de derrotar Nero antes que seja tarde demais.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 127,
+    "id_filme": 13475,
+    "id_imdb": "tt0796366",
+    "media_de_votos": 7.433,
+    "total_votos": 9615,
+    "popularidade": 103.259,
+    "receita": 385700000,
+    "produtoras": [
+      "Paramount",
+      "Spyglass Entertainment",
+      "Bad Robot"
+    ]
+  },
+  {
+    "titulo": "Moonfall: Ameaça Lunar",
+    "titulo_original": "Moonfall",
+    "visao_geral": "Poucas semanas antes do impacto e com a humanidade à beira da aniquilação, a ex-astronauta da NASA Jo Fowler está convencida de que tem a resposta para salvar o planeta, mas apenas um colega do passado, o astronauta Brian Harper, e o teorista K.C. Houseman, acreditam nela. Os improváveis heróis correm contra o tempo para montar uma missão ao espaço, mas lá descobrem que a Lua não é o que parece.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 122,
+    "id_filme": 406759,
+    "id_imdb": "tt5834426",
+    "media_de_votos": 6.331,
+    "total_votos": 2946,
+    "popularidade": 97.381,
+    "receita": 67300000,
+    "produtoras": [
+      "Centropolis Entertainment",
+      "Street Entertainment",
+      "Lionsgate",
+      "AGC Studios",
+      "Huayi Tencent Entertainment Company",
+      "Huayi Brothers International"
+    ]
+  },
+  {
+    "titulo": "Perdido em Marte",
+    "titulo_original": "The Martian",
+    "visao_geral": "O astronauta Mark Watney é enviado a uma missão em Marte. Após uma severa tempestade ele é dado como morto, abandonado pelos colegas e acorda sozinho no misterioso planeta com escassos suprimentos, sem saber como reencontrar os companheiros ou retornar à Terra.",
+    "generos": [
+      "Drama",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 141,
+    "id_filme": 286217,
+    "id_imdb": "tt3659388",
+    "media_de_votos": 7.685,
+    "total_votos": 19207,
+    "popularidade": 91.754,
+    "receita": 631058917,
+    "produtoras": [
+      "Scott Free Productions",
+      "Genre Films",
+      "TSG Entertainment",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "Valerian e a Cidade dos Mil Planetas",
+    "titulo_original": "Valerian and the City of a Thousand Planets",
+    "visao_geral": "Século XXVIII. Valérian é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline, por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.",
+    "generos": [
+      "Aventura",
+      "Ficção científica",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 136,
+    "id_filme": 339964,
+    "id_imdb": "tt2239822",
+    "media_de_votos": 6.6,
+    "total_votos": 7278,
+    "popularidade": 91.517,
+    "receita": 225973340,
+    "produtoras": [
+      "Belga Films",
+      "River Road Entertainment",
+      "Grive Productions",
+      "EuropaCorp",
+      "UFA",
+      "Fundamental Films",
+      "Gulf Film",
+      "Novo Pictures",
+      "TF1 Films Production",
+      "Orange Studio",
+      "BNP Paribas Fortis"
+    ]
+  },
+  {
+    "titulo": "John Carter: Entre Dois Mundos",
+    "titulo_original": "John Carter",
+    "visao_geral": "O soldado americano John Carter, para a tristeza de seus parentes, faleceu no planeta Terra. Contudo, para a alegria de outros, ressuscitou em Marte. Agora, em meio a uma guerra civil no planeta vermelho, habitado por seres de cor verde e criaturas gigantescas, ele é visto como a única esperança de ajudar a princesa Deja Thoris, a salvar o seu mundo, numa batalha que mudará para sempre o seu destino.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 132,
+    "id_filme": 49529,
+    "id_imdb": "tt0401729",
+    "media_de_votos": 6.317,
+    "total_votos": 5420,
+    "popularidade": 83.555,
+    "receita": 284100000,
+    "produtoras": [
+      "Walt Disney Pictures"
+    ]
+  },
+  {
+    "titulo": "WALL-E",
+    "titulo_original": "WALL·E",
+    "visao_geral": "Depois de milhares de solitários anos fazendo o que ele foi construído para fazer, o curioso e adorável WALL-E encontra uma nova razão para viver quando conhece uma robô de busca de alto design chamada EVA.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 97,
+    "id_filme": 10681,
+    "id_imdb": "tt0910970",
+    "media_de_votos": 8.088,
+    "total_votos": 18202,
+    "popularidade": 83.266,
+    "receita": 521311860,
+    "produtoras": [
+      "Pixar",
+      "Walt Disney Pictures"
+    ]
+  },
+  {
+    "titulo": "Além da Escuridão - Star Trek",
+    "titulo_original": "Star Trek Into Darkness",
+    "visao_geral": "Os tripulantes da Enterprise descobrem uma força terrorista dentro da sua própria organização. O capitão Kirk desafia as regras da Frota Estelar e lidera uma missão para capturar uma arma de destruição em massa.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 132,
+    "id_filme": 54138,
+    "id_imdb": "tt1408101",
+    "media_de_votos": 7.328,
+    "total_votos": 8866,
+    "popularidade": 82.928,
+    "receita": 467400000,
+    "produtoras": [
+      "Bad Robot",
+      "Paramount",
+      "Skydance Media"
+    ]
+  },
+  {
+    "titulo": "O Quarteto Fantástico",
+    "titulo_original": "Fantastic Four",
+    "visao_geral": "O cientista Reed Richards convence seu arrogante colega Victor von Doom a financiar seus experimentos com energia cósmica. Na estação espacial Von Doom, a tripulação, incluindo o astronauta Ben Grimm, a pesquisadora Sue Storm e o piloto Johnny Storm, é exposta a uma tempestade cósmica misteriosa que dá superpoderes a eles. Eles tentam lidar com suas transformações enquanto o detestável von Doom jura vingança.",
+    "generos": [
+      "Ação",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 106,
+    "id_filme": 9738,
+    "id_imdb": "tt0120667",
+    "media_de_votos": 5.782,
+    "total_votos": 9032,
+    "popularidade": 82.874,
+    "receita": 333535934,
+    "produtoras": [
+      "Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG",
+      "1492 Pictures",
+      "Marvel Enterprises",
+      "20th Century Fox",
+      "Bernd Eichinger Productions",
+      "Constantin Film"
+    ]
+  },
+  {
+    "titulo": "O Destino de Júpiter",
+    "titulo_original": "Jupiter Ascending",
+    "visao_geral": "Jupiter Jones é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos, país onde vive após deixar a Rússia. Um dia, ela recebe a visita de Caine, um ex-militar alterado geneticamente que tem por missão protegê-la a todo custo e levá-la para assumir seu lugar de direito.",
+    "generos": [
+      "Ficção científica",
+      "Fantasia",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 124,
+    "id_filme": 76757,
+    "id_imdb": "tt1617661",
+    "media_de_votos": 5.5,
+    "total_votos": 6563,
+    "popularidade": 79.334,
+    "receita": 184000000,
+    "produtoras": [
+      "Warner Bros. Pictures",
+      "Village Roadshow Pictures",
+      "RatPac Entertainment",
+      "Anarchos Productions"
+    ]
+  },
+  {
+    "titulo": "O Astronauta",
+    "titulo_original": "Spaceman",
+    "visao_geral": "Há seis meses em uma missão solitária, um astronauta analisa os problemas do seu casamento com a ajuda de uma criatura misteriosa que se esconde em sua nave.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 108,
+    "id_filme": 636706,
+    "id_imdb": "tt11097384",
+    "media_de_votos": 6.833,
+    "total_votos": 594,
+    "popularidade": 78.341,
+    "receita": 0,
+    "produtoras": [
+      "Free Association",
+      "Tango Entertainment",
+      "Sinestra"
+    ]
+  },
+  {
+    "titulo": "Tropas Estelares",
+    "titulo_original": "Starship Troopers",
+    "visao_geral": "Em um futuro distante, a Terra está em guerra contra uma raça de insetos gigantes alienígenas. Pouco se sabe sobre eles, exceto que têm a intenção de eliminar toda forma de vida humana. Mas houve um tempo, antes da guerra, em que a Infantaria Móvel viajava para planetas distantes a fim de combater os insetos, inimigos implacáveis, com apenas uma missão: garantir a sobrevivência de sua espécie a qualquer custo.",
+    "generos": [
+      "Aventura",
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 135,
+    "id_filme": 563,
+    "id_imdb": "tt0120201",
+    "media_de_votos": 7.1,
+    "total_votos": 4682,
+    "popularidade": 71.338,
+    "receita": 121214377,
+    "produtoras": [
+      "TriStar Pictures",
+      "Touchstone Pictures",
+      "Jon Davison Productions",
+      "Big Bug Pictures"
+    ]
+  },
+  {
+    "titulo": "Planeta do Tesouro",
+    "titulo_original": "Treasure Planet",
+    "visao_geral": "Versão animada da Disney de “Ilha do Tesouro”, mas passando-se no espaço. Jim Hawkins é um adolescente rebelde sem muita perspectiva de futuro, até receber um mapa que o fará percorrer o espaço em sua nave com uma tripulação de personagens característicos da empresa. Afundou na bilheteria e foi um dos responsáveis pela decisão de Disney de não lançar mais filmes de animação convencional.",
+    "generos": [
+      "Aventura",
+      "Animação",
+      "Família",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 9016,
+    "id_imdb": "tt0133240",
+    "media_de_votos": 7.54,
+    "total_votos": 4006,
+    "popularidade": 70.933,
+    "receita": 109578115,
+    "produtoras": [
+      "Walt Disney Pictures",
+      "Walt Disney Feature Animation"
+    ]
+  },
+  {
+    "titulo": "Oblivion",
+    "titulo_original": "Oblivion",
+    "visao_geral": "A Terra foi destruída pela raça Scav. Jack conserta as naves não-tripuladas que coletam os recursos vitais que restam no planeta. Após cumprir sua missão na Terra, Jack Harper partirá para uma colônia lunar. Mas tudo muda quando ele encontra uma espaçonave com uma mulher dentro.",
+    "generos": [
+      "Ação",
+      "Ficção científica",
+      "Aventura",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 124,
+    "id_filme": 75612,
+    "id_imdb": "tt1483013",
+    "media_de_votos": 6.63,
+    "total_votos": 10366,
+    "popularidade": 68.213,
+    "receita": 286168572,
+    "produtoras": [
+      "Universal Pictures",
+      "Relativity Media",
+      "Monolith Pictures (III)",
+      "Chernin Entertainment",
+      "Radical Studios",
+      "Anonymous Content"
+    ]
+  },
+  {
+    "titulo": "E.T.: O Extraterrestre",
+    "titulo_original": "E.T. the Extra-Terrestrial",
+    "visao_geral": "Um garoto faz amizade com um ser de outro planeta, que ficou sozinho na Terra, protegendo-o de todas as formas para evitar que ele seja capturado e transformado em cobaia. Gradativamente, surge entre os dois uma forte amizade.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Família",
+      "Fantasia"
+    ],
+    "tempo_duracao(minutos)": 115,
+    "id_filme": 601,
+    "id_imdb": "tt0083866",
+    "media_de_votos": 7.518,
+    "total_votos": 10877,
+    "popularidade": 64.995,
+    "receita": 792965500,
+    "produtoras": [
+      "Universal Pictures",
+      "Amblin Entertainment"
+    ]
+  },
+  {
+    "titulo": "Sunshine: Alerta Solar",
+    "titulo_original": "Sunshine",
+    "visao_geral": "Em um futuro não muito distante, a morte do sol anuncia o fim da humanidade. Em um último esforço para salvar o planeta, uma tripulação de oito pessoas vai ao espaço com um dispositivo que poderia reviver o sol. No entanto, um acidente, um erro grave e uma nave espacial perdida há muito tempo coloca a tripulação e sua missão em perigo.",
+    "generos": [
+      "Drama",
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 107,
+    "id_filme": 1272,
+    "id_imdb": "tt0448134",
+    "media_de_votos": 6.952,
+    "total_votos": 3621,
+    "popularidade": 60.368,
+    "receita": 34800000,
+    "produtoras": [
+      "Ingenious Media",
+      "Moving Picture Company",
+      "UK Film Council",
+      "DNA Films"
+    ]
+  },
+  {
+    "titulo": "Terra à Deriva 2",
+    "titulo_original": "流浪地球2",
+    "visao_geral": "Os humanos construíram enormes motores na superfície da terra para encontrar um novo lar. Mas a estrada para o universo é perigosa. Para salvar a Terra, os jovens mais uma vez precisam dar um passo à frente para iniciar uma corrida contra o tempo pela vida ou pela morte.",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 173,
+    "id_filme": 842675,
+    "id_imdb": "tt13539646",
+    "media_de_votos": 7.248,
+    "total_votos": 477,
+    "popularidade": 59.806,
+    "receita": 604400000,
+    "produtoras": [
+      "China Film Group Corporation",
+      "Guo Fan Culture and Media"
+    ]
+  },
+  {
+    "titulo": "Rogue One: Uma História Star Wars",
+    "titulo_original": "Rogue One: A Star Wars Story",
+    "visao_geral": "Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma arriscada missão: roubar os planos que revelam uma falha na construção da Estrela da Morte. Para isso, eles contam com a ajuda de Jyn Erso, filha do criador da arma mais poderosa do império.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 133,
+    "id_filme": 330459,
+    "id_imdb": "tt3748528",
+    "media_de_votos": 7.491,
+    "total_votos": 14849,
+    "popularidade": 57.339,
+    "receita": 1056057273,
+    "produtoras": [
+      "Lucasfilm Ltd."
+    ]
+  },
+  {
+    "titulo": "Lightyear",
+    "titulo_original": "Lightyear",
+    "visao_geral": "A aventura de ação e ficção científica apresenta a história de origem definitiva de Buzz Lightyear - o herói que inspirou o brinquedo - apresentando o lendário Space Ranger que conquistaria gerações de fãs.",
+    "generos": [
+      "Animação",
+      "Ficção científica",
+      "Família",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 105,
+    "id_filme": 718789,
+    "id_imdb": "tt10298810",
+    "media_de_votos": 6.999,
+    "total_votos": 3283,
+    "popularidade": 55.256,
+    "receita": 226400000,
+    "produtoras": [
+      "Pixar",
+      "Walt Disney Pictures"
+    ]
+  },
+  {
+    "titulo": "Armageddon",
+    "titulo_original": "Armageddon",
+    "visao_geral": "Um asteroide ameaça colidir com a Terra e destruir todas as formas de vida. A solução é colocar uma bomba nuclear no interior do asteroide. Para realizar esta missão, convocam um perfurador de petróleo, e ele monta uma equipe nada convencional para os padrões do governo.",
+    "generos": [
+      "Ação",
+      "Thriller",
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 153,
+    "id_filme": 95,
+    "id_imdb": "tt0120591",
+    "media_de_votos": 6.837,
+    "total_votos": 7658,
+    "popularidade": 54.201,
+    "receita": 553799566,
+    "produtoras": [
+      "Touchstone Pictures",
+      "Jerry Bruckheimer Films",
+      "Valhalla Motion Pictures"
+    ]
+  },
+  {
+    "titulo": "Cada Um na Sua Casa",
+    "titulo_original": "Home",
+    "visao_geral": "O planeta Terra foi invadido por seres extra-terrestres, os Boov, que estão em busca de um novo planeta para chamar de lar. Eles convivem com os humanos pacificamente, que não sabem de sua existência. Entretanto, um dia a jovem adolescente Tip encontra o alien Oh, que foi banido pelos Boov devido às várias trapalhadas causadas por ele. Os dois logo embarcam em uma aventura onde aprendem bastante sobre as relações intergalácticas.",
+    "generos": [
+      "Fantasia",
+      "Comédia",
+      "Animação",
+      "Ficção científica",
+      "Família"
+    ],
+    "tempo_duracao(minutos)": 94,
+    "id_filme": 228161,
+    "id_imdb": "tt2224026",
+    "media_de_votos": 6.794,
+    "total_votos": 3826,
+    "popularidade": 53.165,
+    "receita": 368871007,
+    "produtoras": [
+      "DreamWorks Animation",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "O Enigma de Andrômeda",
+    "titulo_original": "The Andromeda Strain",
+    "visao_geral": "Quando praticamente todos os moradores de Piedmont, no Novo México, são encontrados mortos após a queda de um satélite espacial, o chefe do Projeto Scoop da Força Aérea dos EUA declara uma emergência. Então um grupo de cientistas, liderados pelo Dr. Jeremy Stone (Arthur Hill), vão para uma instalação ultra segura conhecida como Wildfire para tentar descobrir e isolar uma possível forma de vida extraterrestre.",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 131,
+    "id_filme": 10514,
+    "id_imdb": "tt0066769",
+    "media_de_votos": 7.052,
+    "total_votos": 660,
+    "popularidade": 52.98,
+    "receita": 12376563,
+    "produtoras": [
+      "Universal Pictures"
+    ]
+  },
+  {
+    "titulo": "Austin Powers: O Agente Bond Cama",
+    "titulo_original": "Austin Powers: The Spy Who Shagged Me",
+    "visao_geral": "Em sua segunda aventura na tela, o super espião britânico Austin Powers retorna a 1969 porque o seu arqui-inimigo Dr. Evil voltou no tempo após ter roubado o mojo de Austin e criado um laser poderoso que está apontado para à Terra. Com a ajuda da bela agente Felicity Shagwell, o recém-solteiro Austin deve agora não só lidar com Dr. Evil, mas também com o maldoso e minúsculo Mini-Me.",
+    "generos": [
+      "Aventura",
+      "Comédia",
+      "Crime",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 817,
+    "id_imdb": "tt0145660",
+    "media_de_votos": 6.281,
+    "total_votos": 3190,
+    "popularidade": 51.598,
+    "receita": 312016928,
+    "produtoras": [
+      "New Line Cinema",
+      "Eric's Boy"
+    ]
+  },
+  {
+    "titulo": "Contato",
+    "titulo_original": "Contact",
+    "visao_geral": "Desde quando era menina, Ellie Arroway tentou manter contato com vidas extraterrestres inteligentes. Deixou de lado sua vida particular e até mesmo o amor do teólogo Palmer Joss. Depois de anos seu sonho se tornou realidade. Com origem na distante estrela Vega, chega à Terra uma informação cifrada e Ellie é a primeira pessoa á captá-la e a única disposta a seguir cegamente a mensagem alienígena. Esta é a sua grande chance de fazer contato, mesmo que para isso tenha que correr risco de vida.",
+    "generos": [
+      "Drama",
+      "Ficção científica",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 150,
+    "id_filme": 686,
+    "id_imdb": "tt0118884",
+    "media_de_votos": 7.43,
+    "total_votos": 4295,
+    "popularidade": 51.294,
+    "receita": 171120329,
+    "produtoras": [
+      "South Side Amusement Company",
+      "Warner Bros. Pictures"
+    ]
+  },
+  {
+    "titulo": "Ender's Game: O Jogo do Exterminador",
+    "titulo_original": "Ender's Game",
+    "visao_geral": "Para impedir um novo ataque da força alienígena que quase acabou com a raça humana, o jovem Ender Wiggin é recrutado pelo corpo militar internacional. Ele treina para se transformar no melhor jogador, e sua missão é acabar com a guerra.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 115,
+    "id_filme": 80274,
+    "id_imdb": "tt1731141",
+    "media_de_votos": 6.593,
+    "total_votos": 5647,
+    "popularidade": 50.003,
+    "receita": 125537191,
+    "produtoras": [
+      "Digital Domain",
+      "Chartoff Productions",
+      "Taleswapper",
+      "K/O Paper Products",
+      "OddLot Entertainment"
+    ]
+  },
+  {
+    "titulo": "Ad Astra - Rumo às Estrelas",
+    "titulo_original": "Ad Astra",
+    "visao_geral": "Roy McBride é um engenheiro espacial, portador de um leve grau de autismo, que decide empreender a maior jornada de sua vida: viajar para o espaço, cruzar a galáxia e tentar descobrir o que aconteceu com seu pai, um astronauta que se perdeu há vinte anos atrás no caminho para Netuno.",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 123,
+    "id_filme": 419704,
+    "id_imdb": "tt2935510",
+    "media_de_votos": 6.104,
+    "total_votos": 6385,
+    "popularidade": 49.967,
+    "receita": 127461872,
+    "produtoras": [
+      "New Regency Productions",
+      "MadRiver Pictures",
+      "Plan B Entertainment",
+      "RT Features",
+      "Bona Film Group",
+      "TSG Entertainment",
+      "Keep Your Head Productions",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "O Enigma do Horizonte",
+    "titulo_original": "Event Horizon",
+    "visao_geral": "Em 2047, uma missão de resgate é mandada para encontrar a \"Event Horizon\", uma nave que desapareceu misteriosamente sete anos atrás, quando explorava os limites do sistema solar. Mas ao encontrá-la os astronautas que integram a missão de resgate vão gradativamente tomando consciência do terrível mistério que os cerca.",
+    "generos": [
+      "Terror",
+      "Ficção científica",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 96,
+    "id_filme": 8413,
+    "id_imdb": "tt0119081",
+    "media_de_votos": 6.52,
+    "total_votos": 2679,
+    "popularidade": 49.7,
+    "receita": 26700000,
+    "produtoras": [
+      "Impact Pictures",
+      "Paramount",
+      "Golar Productions",
+      "Lawrence Gordon Productions"
+    ]
+  },
+  {
+    "titulo": "I.S.S.",
+    "titulo_original": "I.S.S.",
+    "visao_geral": "Num futuro próximo, as tensões crescem a bordo da Estação Espacial Internacional quando um conflito eclode na Terra. Revoltados, os astronautas americanos e russos recebem a ordem: assumir o controle da estação por qualquer meio possível.",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 790462,
+    "id_imdb": "tt13655120",
+    "media_de_votos": 5.06,
+    "total_votos": 92,
+    "popularidade": 47.478,
+    "receita": 6394197,
+    "produtoras": [
+      "LD Entertainment"
+    ]
+  },
+  {
+    "titulo": "Stargate: A Chave para o Futuro da Humanidade",
+    "titulo_original": "Stargate",
+    "visao_geral": "Um egiptólogo (James Spader) não-reconhecido por suas teorias é convidado a trabalhar em uma base secreta e lá toma contato com um anel de trinta metros coberto de hieróglifos. Ele descobre a chave para se chegar a um novo mundo, pois aquele anel é um portão estelar e, junto com uma pequena tropa de elite, atravessa o portão e se vê diante de uma experiência e uma aventura inimaginável.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 116,
+    "id_filme": 2164,
+    "id_imdb": "tt0111282",
+    "media_de_votos": 7.0,
+    "total_votos": 3267,
+    "popularidade": 45.777,
+    "receita": 196567262,
+    "produtoras": [
+      "Centropolis Entertainment",
+      "Carolco Pictures",
+      "Le Studio Canal+",
+      "Metro-Goldwyn-Mayer",
+      "Live Entertainment"
+    ]
+  },
+  {
+    "titulo": "Impacto Profundo",
+    "titulo_original": "Deep Impact",
+    "visao_geral": "Um astrônomo-mirim e seu professor acidentalmente descobrem que um cometa com 11 mil metros de diâmetro vai colidir com a Terra, mas um dos descobridores morre em um desastre de automóvel. Após um ano, um repórter tentando investigar um possível escândalo sexual chega à conclusão de que a \"amante\" é o cometa, que está prestes a se chocar com nosso planeta. Se isto vier a acontecer os danos causados serão incalculáveis e a vida animal e vegetal em pouco tempo deixará de existir. No entanto, uma equipe formada por americanos e russos planeja colocar detonadores nucleares, para fragmentar o cometa e salvar a Terra.",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 121,
+    "id_filme": 8656,
+    "id_imdb": "tt0120647",
+    "media_de_votos": 6.221,
+    "total_votos": 2864,
+    "popularidade": 45.388,
+    "receita": 349464664,
+    "produtoras": [
+      "Paramount",
+      "DreamWorks Pictures",
+      "Amblin Entertainment",
+      "The Zanuck Company"
+    ]
+  },
+  {
+    "titulo": "007 Contra o Foguete da Morte",
+    "titulo_original": "Moonraker",
+    "visao_geral": "Um avião carregando um foguete espacial sofre um acidente. Mas quando o Serviço Secreto Britânico vai examinar os destroços, não encontra nenhum vestígio da espaçonave. Assim, James Bond (Roger Moore) tem a missão de investigar o caso e começa indo visitar o multimilionário que construiu a aeronave e tem idéias bastantes estranhas de qual deva ser o destino da raça humana.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 126,
+    "id_filme": 698,
+    "id_imdb": "tt0079574",
+    "media_de_votos": 6.2,
+    "total_votos": 1872,
+    "popularidade": 44.361,
+    "receita": 210308099,
+    "produtoras": [
+      "United Artists",
+      "EON Productions",
+      "Danjaq",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "titulo": "Alien: Romulus",
+    "titulo_original": "Alien: Romulus",
+    "visao_geral": "Enquanto vasculham as profundezas de uma estação espacial abandonada, um grupo de jovens colonizadores espaciais se depara com a forma de vida mais aterrorizante do universo.",
+    "generos": [
+      "Ficção científica",
+      "Terror",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 945961,
+    "id_imdb": "tt18412256",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 42.574,
+    "receita": 0,
+    "produtoras": [
+      "20th Century Studios",
+      "Scott Free Productions",
+      "Brandywine Productions"
+    ]
+  },
+  {
+    "titulo": "O Guia do Mochileiro das Galáxias",
+    "titulo_original": "The Hitchhiker's Guide to the Galaxy",
+    "visao_geral": "Arthur Dent é um homem normal, que está tendo um péssimo dia. Após saber que sua casa está prestes a ser demolida, ele descobre que Ford Prefect, seu melhor amigo, é um extraterrestre e, para completar, fica sabendo que a Terra está a beira de ser destruída. Sem saída, Arthur pega carona em uma nave espacial que está de passagem. Ele passa então a conhecer o universo, sendo que tudo o que precisa saber sobre sua nova vida está contido em um valioso livro: o Guia do Mochileiro das Galáxias.",
+    "generos": [
+      "Aventura",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 108,
+    "id_filme": 7453,
+    "id_imdb": "tt0371724",
+    "media_de_votos": 6.672,
+    "total_votos": 3734,
+    "popularidade": 41.194,
+    "receita": 104500000,
+    "produtoras": [
+      "Spyglass Entertainment",
+      "Everyman Pictures",
+      "Hammer & Tongs",
+      "Touchstone Pictures"
+    ]
+  },
+  {
+    "titulo": "Zathura: Uma Aventura Espacial",
+    "titulo_original": "Zathura: A Space Adventure",
+    "visao_geral": "Dois irmãos briguentos são lançados em pleno espaço sideral enquanto jogavam um misterioso jogo que acharam no porão de sua casa velha. Em sua fantástica jornada, eles se juntam a um astronauta perdido e têm que sobreviver a chuva de meteoros, alienígenas hostis parecidos com lagartos, um furioso robô movido a jato e a uma batalha de nave espacial intergaláctica. A não ser que eles terminem o jogo e encontrem o planeta Zathura, eles podem ficar presos no espaço para sempre.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Família"
+    ],
+    "tempo_duracao(minutos)": 105,
+    "id_filme": 6795,
+    "id_imdb": "tt0406375",
+    "media_de_votos": 6.418,
+    "total_votos": 3164,
+    "popularidade": 40.951,
+    "receita": 65079104,
+    "produtoras": [
+      "Teitler Film",
+      "Michael De Luca Productions",
+      "Columbia Pictures",
+      "Radar Pictures"
+    ]
+  },
+  {
+    "titulo": "S.O.S.: Tem um Louco Solto no Espaço",
+    "titulo_original": "Spaceballs",
+    "visao_geral": "O planeta Spaceball está em crise, após seus vilões atrapalhados desperdiçarem a atmosfera do lugar. Agora, eles vão tentar roubar o ar de um planeta mais fraco, fazendo com que a princesa Vespa peça ajuda de dois mercenários intergalácticos.",
+    "generos": [
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 96,
+    "id_filme": 957,
+    "id_imdb": "tt0094012",
+    "media_de_votos": 6.849,
+    "total_votos": 2835,
+    "popularidade": 40.152,
+    "receita": 38100000,
+    "produtoras": [
+      "Metro-Goldwyn-Mayer",
+      "Brooksfilms",
+      "MGM"
+    ]
+  },
+  {
+    "titulo": "Inimigo Meu",
+    "titulo_original": "Enemy Mine",
+    "visao_geral": "Dois guerreiros envolvidos em uma selvagem guerra futurística entre a Terra e o planeta Dracon, são abatidos e fazem aterrissagens forçadas em um planeta desolado e inóspito. A princípio, o humano e seu inimigo, um réptil alienígena, estão determinados a destruírem-se mutuamente. Mas após terem que enfrentar as forças da natureza e um ao outro, os dois pilotos perdidos gradualmente percebem que a única maneira de manterem-se vivos é superando o ódio mortal.",
+    "generos": [
+      "Drama",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 108,
+    "id_filme": 11864,
+    "id_imdb": "tt0089092",
+    "media_de_votos": 6.944,
+    "total_votos": 925,
+    "popularidade": 39.7,
+    "receita": 12300000,
+    "produtoras": [
+      "Bavaria Film",
+      "SLM Production Group",
+      "Kings Road Entertainment",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "A Cratera",
+    "titulo_original": "Crater",
+    "visao_geral": "Caleb Channing foi criado numa colônia de mineração lunar e está prestes a ser transferido permanentemente para um planeta idílico e distante após a morte do pai. Mas, antes de partir, ele e seus três melhores amigos, Dylan, Borney e Marcus, juntamente com Addison, uma recém-chegada da Terra, querem realizar o último desejo do pai dele. Então eles roubam um rover para viver uma última aventura e partem em uma jornada para explorar uma cratera misteriosa.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Aventura",
+      "Família"
+    ],
+    "tempo_duracao(minutos)": 105,
+    "id_filme": 620705,
+    "id_imdb": "tt5264838",
+    "media_de_votos": 6.7,
+    "total_votos": 249,
+    "popularidade": 38.448,
+    "receita": 0,
+    "produtoras": [
+      "Walt Disney Pictures",
+      "21 Laps Entertainment"
+    ]
+  },
+  {
+    "titulo": "2010: O Ano em que Faremos Contato",
+    "titulo_original": "2010",
+    "visao_geral": "Uma missão que reúne americanos e soviéticos é enviada ao planeta Júpiter para buscar informações sobre o que aconteceu de errado com a Discovery. A bordo da nave Leonov, a tripulação descobre um gigante monólito na orbita do planeta, reencontra HAL-9000 e desvenda inúmeros mistérios do mundo.",
+    "generos": [
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 115,
+    "id_filme": 4437,
+    "id_imdb": "tt0086837",
+    "media_de_votos": 6.654,
+    "total_votos": 886,
+    "popularidade": 37.594,
+    "receita": 40400000,
+    "produtoras": [
+      "Metro-Goldwyn-Mayer"
+    ]
+  },
+  {
+    "titulo": "O Soldado do Futuro",
+    "titulo_original": "Soldier",
+    "visao_geral": "No futuro, as guerras intergalácticas são lutadas por seres meio humanos e meio robôs. Mas o veterano sargento Todd insurge-se contra a ditadura das máquinas e decide enfrentá-las, para proteger um grupo de humanos que vive refugiado num planeta que serve como depósito de lixo de tecnologias ultrapassadas.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Drama",
+      "Fantasia"
+    ],
+    "tempo_duracao(minutos)": 99,
+    "id_filme": 9425,
+    "id_imdb": "tt0120157",
+    "media_de_votos": 6.402,
+    "total_votos": 797,
+    "popularidade": 36.825,
+    "receita": 14594226,
+    "produtoras": [
+      "Impact Pictures",
+      "Jerry Weintraub Productions",
+      "Morgan Creek Entertainment",
+      "Warner Bros. Pictures"
+    ]
+  },
+  {
+    "titulo": "Doom: Annihilation",
+    "titulo_original": "Doom: Annihilation",
+    "visao_geral": "Um grupo de fuzileiros espaciais responde a um pedido de socorro de uma base em uma lua marciana, apenas para descobrir que foi invadida por criaturas demoníacas que ameaçam criar o inferno na Terra.",
+    "generos": [
+      "Ação",
+      "Ficção científica",
+      "Terror"
+    ],
+    "tempo_duracao(minutos)": 96,
+    "id_filme": 520901,
+    "id_imdb": "tt8328716",
+    "media_de_votos": 4.9,
+    "total_votos": 390,
+    "popularidade": 34.923,
+    "receita": 0,
+    "produtoras": [
+      "Universal 1440 Entertainment",
+      "di Bonaventura Pictures",
+      "John Wells Productions",
+      "Battle Mountain Films"
+    ]
+  },
+  {
+    "titulo": "Viagem à Lua",
+    "titulo_original": "Le Voyage dans la Lune",
+    "visao_geral": "Uma associação de astrônomos concordou em ouvir o plano do professor Barbenfouillis, seu presidente, de voar para a lua. Com a única voz dissidente anulada por Barbenfouillis e os outros membros, o plano é aprovado com Barbenfouillis escolhendo cinco outros para acompanhá-lo. A maior parte da preparação para a viagem está na construção da embarcação e do mecanismo de lançamento, que se assemelha a uma bala grande e a uma arma grande, respectivamente.",
+    "generos": [
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 14,
+    "id_filme": 775,
+    "id_imdb": "tt0000417",
+    "media_de_votos": 7.9,
+    "total_votos": 1704,
+    "popularidade": 35.713,
+    "receita": 0,
+    "produtoras": [
+      "Star Film"
+    ]
+  },
+  {
+    "titulo": "Planeta Proibido",
+    "titulo_original": "Forbidden Planet",
+    "visao_geral": "Uma expedição liderada pelo Comandante John J. Adams (Leslie Nielsen) viaja rumo a um planeta distante para descobrir o que aconteceu com os cientistas que foram para lá iniciar uma colônia. Apenas um é encontrado: O arrogante Dr. Morbius (Walter Pidgeon), que vive em companhia da filha, Altaira (Anne Francis) e de um prestativo robô.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Fantasia",
+      "Romance"
+    ],
+    "tempo_duracao(minutos)": 98,
+    "id_filme": 830,
+    "id_imdb": "tt0049223",
+    "media_de_votos": 7.267,
+    "total_votos": 890,
+    "popularidade": 35.517,
+    "receita": 3250000,
+    "produtoras": [
+      "Metro-Goldwyn-Mayer"
+    ]
+  },
+  {
+    "titulo": "Capricórnio Um",
+    "titulo_original": "Capricorn One",
+    "visao_geral": "Nos anos 1970, em plena Guerra Fria, o Governo Americano e a Nasa unem-se numa farsa: uma missão tripulada até o planeta Marte é encenada num estúdio para enganar a opinião pública, forçando o mundo a acreditar nos progressos científicos e tecnológicos dos Estados Unidos. Três astronautas são obrigados a participar da farsa e das filmagens. O problema é que a cápsula não-tripulada enviada ao espaço explode na reentrada, e agora o governo não pode deixar os astronautas vivos para revelar a mentira. Segue-se uma diabólica perseguição.",
+    "generos": [
+      "Drama",
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 123,
+    "id_filme": 11935,
+    "id_imdb": "tt0077294",
+    "media_de_votos": 6.749,
+    "total_votos": 427,
+    "popularidade": 34.255,
+    "receita": 12000000,
+    "produtoras": [
+      "Associated General Films",
+      "ITC Entertainment"
+    ]
+  },
+  {
+    "titulo": "Memories",
+    "titulo_original": "MEMORIES",
+    "visao_geral": "Três histórias seguem viajantes espaciais no mundo das memórias: um fantasma assombra uma espaçonave, um homem que emite vapores mortais e um canhão gigante que dispara indiscriminadamente contra inimigos desconhecidos.",
+    "generos": [
+      "Fantasia",
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 113,
+    "id_filme": 42994,
+    "id_imdb": "tt0113799",
+    "media_de_votos": 7.408,
+    "total_votos": 412,
+    "popularidade": 34.238,
+    "receita": 0,
+    "produtoras": [
+      "Bandai Visual",
+      "Shochiku",
+      "Madhouse",
+      "Kodansha",
+      "STUDIO4℃"
+    ]
+  },
+  {
+    "titulo": "Gemini: O Planeta Sombrio",
+    "titulo_original": "Звёздный разум",
+    "visao_geral": "Um thriller de ficção científica sobre uma missão espacial enviada para terraformar um planeta distante. No entanto, a missão encontra algo desconhecido que tem seu próprio plano para o planeta.",
+    "generos": [
+      "Ficção científica",
+      "Terror"
+    ],
+    "tempo_duracao(minutos)": 99,
+    "id_filme": 575322,
+    "id_imdb": "tt5656994",
+    "media_de_votos": 5.8,
+    "total_votos": 388,
+    "popularidade": 34.037,
+    "receita": 211674,
+    "produtoras": [
+      "KD Studios"
+    ]
+  },
+  {
+    "titulo": "Sequestro no Espaço",
+    "titulo_original": "Lockout",
+    "visao_geral": "Num futuro não muito distante, Snow (Guy Pearce) foi acusado injustamente de conspiração contra o governo americano. Agora, para ter de volta a sua liberdade, ele precisa resgatar Emilie Warnock (Maggie Grace), a filha do presidente das garras de perigosos detentos que a capturaram durante uma rebelião em um presídio espacial. O local é um verdadeiro ninho de serpentes, reunindo centenas de criminosos de alta periculosidade, tornando a missão de Snow um grande e perigoso desafio.",
+    "generos": [
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 81796,
+    "id_imdb": "tt1592525",
+    "media_de_votos": 5.907,
+    "total_votos": 1759,
+    "popularidade": 33.587,
+    "receita": 32948113,
+    "produtoras": [
+      "EuropaCorp",
+      "Canal+",
+      "Ciné+",
+      "Digital Factory",
+      "FilmDistrict"
+    ]
+  },
+  {
+    "titulo": "A Fuga do Planeta Terra",
+    "titulo_original": "Escape from Planet Earth",
+    "visao_geral": "Scorch Supernova (Brendan Fraser) é um herói interplanetário bastante conhecido, já que seus feitos costumam ser televisionados para todo o planeta Babum. Isto faz com que ele se torne uma lenda para as crianças, graças também à ajuda de Gary (Rob Corddry), o diretor da Missão BASA Control e seu irmão. Namorando a bela repórter Gabby Tagarela (Sofia Vergara) e tendo o sobrinho Kip (Jonathan Morgan Heit) como fã número um, Scorch tem sua vida alterada aoser enviado em uma missão no planeta proibido, também conhecido como Terra. O problema é que nenhum astronauta retornou de lá e, por causa disto, Gary não quer que o irmão embarque nesta aventura. Scorch nem se importa com os alertas e viaja assim mesmo, não sem antes desfazer a parceria com Gary. Porém, quando Scorch é capturado pelos terráqueos em meio a uma transmissão ao vivo pela TV, Gary não vê outra alternativa a não ser também viajar à Terra para salvá-lo.",
+    "generos": [
+      "Animação",
+      "Comédia",
+      "Aventura",
+      "Família",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 89,
+    "id_filme": 68179,
+    "id_imdb": "tt0765446",
+    "media_de_votos": 5.738,
+    "total_votos": 723,
+    "popularidade": 33.525,
+    "receita": 74597643,
+    "produtoras": [
+      "The Weinstein Company",
+      "Kaleidoscope TWC",
+      "Rainmaker Entertainment",
+      "GRF Productions"
+    ]
+  },
+  {
+    "titulo": "Passageiro Acidental",
+    "titulo_original": "Stowaway",
+    "visao_geral": "Três pessoas em uma missão de dois anos para Marte enfrentam um dilema fatal depois que um passageiro inesperado coloca todos em risco.",
+    "generos": [
+      "Ficção científica",
+      "Drama",
+      "Thriller",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 117,
+    "id_filme": 559581,
+    "id_imdb": "tt9203694",
+    "media_de_votos": 5.993,
+    "total_votos": 475,
+    "popularidade": 33.378,
+    "receita": 0,
+    "produtoras": [
+      "RainMaker Films",
+      "Yale Productions",
+      "Augenschein Filmproduktion",
+      "Black Canopy Films",
+      "MMC Movies",
+      "Phiphen Pictures",
+      "RISE PICTURES",
+      "Stage 6 Films",
+      "XYZ Films",
+      "WeFadeToGrey",
+      "Bavaria Film"
+    ]
+  },
+  {
+    "titulo": "A Experiência II: A Mutação",
+    "titulo_original": "Species II",
+    "visao_geral": "Terminada a missão em Marte, o astronauta Patrick Ross volta à Terra e descobre que foi infectado com o DNA de um alienígena que o transforma em um ser preocupado apenas em ter relações com mulheres, o que faz ter um desejo enorme de ter filhos para dominar os humanos.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Terror"
+    ],
+    "tempo_duracao(minutos)": 93,
+    "id_filme": 10216,
+    "id_imdb": "tt0120841",
+    "media_de_votos": 5.2,
+    "total_votos": 653,
+    "popularidade": 32.461,
+    "receita": 19200000,
+    "produtoras": [
+      "Metro-Goldwyn-Mayer",
+      "FGM Entertainment"
+    ]
+  },
+  {
+    "titulo": "A Presença",
+    "titulo_original": "Proximity",
+    "visao_geral": "Um jovem cientista trabalha para a NASA, ele é abduzido por extraterrestres. Quando ninguém acredita em sua história, ele fica obcecado em encontrar provas que o levem a uma jornada de descoberta.",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 119,
+    "id_filme": 693158,
+    "id_imdb": "tt8718300",
+    "media_de_votos": 6.556,
+    "total_votos": 269,
+    "popularidade": 31.792,
+    "receita": 0,
+    "produtoras": [
+      "Demeusy Pictures"
+    ]
+  },
+  {
+    "titulo": "O Vôo do Navegador",
+    "titulo_original": "Flight of the Navigator",
+    "visao_geral": "Um garoto é sequestrado por alienígenas e só volta para casa seis anos depois (mesmo que, para ele, só tenham se passado quatro horas). No entanto, como não envelheceu sequer um dia, isso causa estranheza a todos.",
+    "generos": [
+      "Família",
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 90,
+    "id_filme": 10122,
+    "id_imdb": "tt0091059",
+    "media_de_votos": 6.946,
+    "total_votos": 799,
+    "popularidade": 31.789,
+    "receita": 18564613,
+    "produtoras": [
+      "New Star Entertainment",
+      "Walt Disney Pictures",
+      "Viking Film",
+      "PSO"
+    ]
+  },
+  {
+    "titulo": "O Despertar dos Monstros",
+    "titulo_original": "怪獣総進撃",
+    "visao_geral": "No futuro distante de 1999, todos os monstros da Terra foram capturados e detidos nas Ilhas Ogasawara. Tudo está bem no sistema solar até uma raça de alienígenas mulheres controlarem os monstros e liberá-los, causando estragos em todo o mundo. Godzilla ataca Nova Iorque; Rodan invade Moscou; Mothra devasta Pequim; Gorosaurus destrói Paris; e Manda ataca Londres!",
+    "generos": [
+      "Ficção científica",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 88,
+    "id_filme": 3107,
+    "id_imdb": "tt0063172",
+    "media_de_votos": 6.827,
+    "total_votos": 226,
+    "popularidade": 31.731,
+    "receita": 1568760,
+    "produtoras": [
+      "TOHO"
+    ]
+  },
+  {
+    "titulo": "映画ドラえもん のび太の月面探査記",
+    "titulo_original": "映画ドラえもん のび太の月面探査記",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Ficção científica",
+      "Fantasia",
+      "Família"
+    ],
+    "tempo_duracao(minutos)": 111,
+    "id_filme": 575222,
+    "id_imdb": "tt9735672",
+    "media_de_votos": 7.582,
+    "total_votos": 55,
+    "popularidade": 31.391,
+    "receita": 65400000,
+    "produtoras": [
+      "Fujiko Productions",
+      "Shin-Ei Animation",
+      "Asatsu-DK",
+      "TV Asahi",
+      "Shogakukan",
+      "Shogakukan-Shueisha Productions"
+    ]
+  },
+  {
+    "titulo": "O Grande Dave",
+    "titulo_original": "Meet Dave",
+    "visao_geral": "Em busca de uma saída para evitar a destruição de seu planeta, seres extra-terrestres chegam à Terra. Eles possuem a forma de seres humanos, mas são bem menores. Para observar e aprender sobre a rotina terráquea eles passam a abrigar naves que tem o formato de humanos normais. Uma delas é Dave (Eddie Murphy), que precisa agir como uma pessoa normal para não despertar suspeitas.",
+    "generos": [
+      "Comédia",
+      "Ficção científica",
+      "Aventura",
+      "Família"
+    ],
+    "tempo_duracao(minutos)": 90,
+    "id_filme": 11260,
+    "id_imdb": "tt0765476",
+    "media_de_votos": 5.272,
+    "total_votos": 1362,
+    "popularidade": 31.383,
+    "receita": 50650079,
+    "produtoras": [
+      "Dune Entertainment",
+      "Regency Enterprises",
+      "Guy Walks into a Bar Productions",
+      "Deep River Productions",
+      "Friendly Films (II)",
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "Titã",
+    "titulo_original": "The Titan",
+    "visao_geral": "Num futuro não muito distante, uma família ligada às forças armadas aceita fazer parte de um programa científico secreto. Eles são realocados para o espaço e vão participar de uma experiência inovadora de evolução genética do ser humano.",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 97,
+    "id_filme": 476926,
+    "id_imdb": "tt4986098",
+    "media_de_votos": 5.332,
+    "total_votos": 1193,
+    "popularidade": 31.205,
+    "receita": 2635408,
+    "produtoras": [
+      "42",
+      "The Amel Company",
+      "Motion Picture Capital",
+      "Nostromo Pictures",
+      "Voltage Pictures"
+    ]
+  },
+  {
+    "titulo": "Viajantes - Instinto e Desejo",
+    "titulo_original": "Voyagers",
+    "visao_geral": "Um grupo de jovens é enviado ao espaço numa missão para povoar um planeta recém descoberto. Depois que o capitão da missão é misteriosamente morto, a jovem tripulação vai ao caos, revertendo para um estado primitivo, tribal, e cedendo aos seus desejos mais selvagens.",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 108,
+    "id_filme": 597890,
+    "id_imdb": "tt9664108",
+    "media_de_votos": 5.969,
+    "total_votos": 806,
+    "popularidade": 30.206,
+    "receita": 4298184,
+    "produtoras": [
+      "Nota Bene Film Group",
+      "Thunder Road"
+    ]
+  },
+  {
+    "titulo": "Shark Side of the Moon",
+    "titulo_original": "Shark Side of the Moon",
+    "visao_geral": "Décadas atrás, a URSS desenvolveu tubarões impossíveis de matar e os lançou à lua. Hoje, uma equipe de astronautas americanos enfrentará a luta de suas vidas.",
+    "generos": [
+      "Ação",
+      "Ficção científica",
+      "Thriller",
+      "Terror"
+    ],
+    "tempo_duracao(minutos)": 88,
+    "id_filme": 1011679,
+    "id_imdb": "tt21426434",
+    "media_de_votos": 5.123,
+    "total_votos": 146,
+    "popularidade": 29.222,
+    "receita": 0,
+    "produtoras": [
+      "The Asylum"
+    ]
+  },
+  {
+    "titulo": "Lunar",
+    "titulo_original": "Moon",
+    "visao_geral": "O turno de três anos do astronauta Sam Bell em uma mina lunar está finalmente terminando e ele está ansioso para seu reencontro com sua esposa e sua filha. De repente, a saúde de Sam dá uma guinada para pior. Ele sofre dores de cabeça e alucinações e quase tem um acidente fatal. Ele conhece o que parece ser uma versão mais jovem de si mesmo, possivelmente um clone. Sam precisa resolver o mistério antes que a tripulação da empresa chegue.",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 97,
+    "id_filme": 17431,
+    "id_imdb": "tt1182345",
+    "media_de_votos": 7.568,
+    "total_votos": 5480,
+    "popularidade": 29.082,
+    "receita": 9760104,
+    "produtoras": [
+      "Lunar Industries",
+      "Liberty Films",
+      "Xingu Films",
+      "Limelight Fund",
+      "Stage 6 Films",
+      "Sony Pictures Classics",
+      "Independent"
+    ]
+  },
+  {
+    "titulo": "Planeta Vermelho",
+    "titulo_original": "Red Planet",
+    "visao_geral": "Em um futuro apocalíptico, no ano de 2045, a Terra enfrenta uma crise ecológica, como consequência da poluição e da superpopulação. Entretanto, têm missões interplanetárias à Marte, com o objetivo de produzir algas na primeira etapa de terraformação do planeta vermelho. Doze anos depois, quando a quantidade de oxigênio produzido pelas algas tem uma queda inexplicável, a tripulação da Mars-1 é enviada para verificar o que causou a queda nos níveis de oxigênio e assim continuar a missão de terraformação do planeta vermelho para a futura colonização humana.",
+    "generos": [
+      "Thriller",
+      "Ação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 106,
+    "id_filme": 8870,
+    "id_imdb": "tt0199753",
+    "media_de_votos": 5.713,
+    "total_votos": 976,
+    "popularidade": 28.713,
+    "receita": 33463969,
+    "produtoras": [
+      "Mars Production Pty. Ltd.",
+      "Village Roadshow Pictures",
+      "NPV Entertainment",
+      "The Canton Company",
+      "Warner Bros. Pictures"
+    ]
+  },
+  {
+    "titulo": "Missão: Marte",
+    "titulo_original": "Mission to Mars",
+    "visao_geral": "Quando a primeira missão tripulada a Marte sofre um catastrófico e misterioso desastre, uma missão de salvamento é enviada para investigar a tragédia e trazer de volta possíveis sobreviventes.",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 113,
+    "id_filme": 2067,
+    "id_imdb": "tt0183523",
+    "media_de_votos": 5.985,
+    "total_votos": 1361,
+    "popularidade": 28.379,
+    "receita": 60900000,
+    "produtoras": [
+      "Red Horizon Productions",
+      "Touchstone Pictures",
+      "Spyglass Entertainment",
+      "The Jacobson Company",
+      "StudioCanal"
+    ]
+  },
+  {
+    "titulo": "O Legado de Osiris: Ficção Científica Volume 1",
+    "titulo_original": "Science Fiction Volume One: The Osiris Child",
+    "visao_geral": "A história se passa no futuro, em tempos de colonização interplanetária. Sy Lombrok (Kellan Lutz), um ex-enfermeiro e que agora é um andarilho, com um passado assombrado, forma uma aliança improvável com Kane Sommerville (Daniel MacPherson), um tenente que trabalha fora do mundo militar Exor. Em meio a uma crise global, numa corrida contra o tempo eles vão atrás da filha de Kane, Indi (Teagan Croft).",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 354282,
+    "id_imdb": "tt4536768",
+    "media_de_votos": 5.57,
+    "total_votos": 466,
+    "popularidade": 27.95,
+    "receita": 0,
+    "produtoras": [
+      "Eclectik Vision",
+      "Storm Vision Entertainment"
+    ]
+  },
+  {
+    "titulo": "Stargate: A Arca da Verdade",
+    "titulo_original": "Stargate: The Ark of Truth",
+    "visao_geral": "Este emocionante filme de longa-metragem se inicia exatamente onde a equipe Stargate SG-1 composta por Daniel Jackson (Michael Shanks), Vala (Claudia Black), Teal'c (christopher Judge) e Cam (Ben Browder) havia interrompido sua mais eletrizante aventuras de todos os tempos: na busca de um artefato antigo que eles esperam possa derrotar os opressores oris. Porém, a corajosa equipe descobre que há um traidor a bordo da Odyssey e também fica sabendo que os poderosos oris estão prestes a lançar um ataque mortal à Terra.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica",
+      "Cinema TV"
+    ],
+    "tempo_duracao(minutos)": 97,
+    "id_filme": 13001,
+    "id_imdb": "tt0942903",
+    "media_de_votos": 7.1,
+    "total_votos": 467,
+    "popularidade": 27.437,
+    "receita": 8900000,
+    "produtoras": [
+      "Kawoosh! Productions DTV I",
+      "Metro-Goldwyn-Mayer"
+    ]
+  },
+  {
+    "titulo": "Galactica: Astronave de Combate",
+    "titulo_original": "Battlestar Galactica",
+    "visao_geral": "Após a destruição das Doze Colônias da Humanidade, a última grande nave de combate conduz uma frota fugitiva improvisada em uma busca desesperada pelo lendário planeta Terra. Este filme é uma adaptação da série de televisão que foi ao ar na ABC de 17 de setembro de 1978 a 17 de agosto de 1980. O primeiro e o quinto episódios da série foram editados neste filme de cinema.",
+    "generos": [
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 122,
+    "id_filme": 148980,
+    "id_imdb": "tt0077215",
+    "media_de_votos": 6.869,
+    "total_votos": 172,
+    "popularidade": 27.283,
+    "receita": 0,
+    "produtoras": [
+      "Glen A. Larson Productions",
+      "Universal Television"
+    ]
+  },
+  {
+    "titulo": "Extinção",
+    "titulo_original": "Extinction",
+    "visao_geral": "Atormentado por sonhos com uma invasão alienígena, um homem vê seu pesadelo se tornar realidade quando uma força extraterrestre ataca o planeta Terra.",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 429415,
+    "id_imdb": "tt3201640",
+    "media_de_votos": 6.026,
+    "total_votos": 1755,
+    "popularidade": 27.165,
+    "receita": 1451864,
+    "produtoras": [
+      "Good Universe",
+      "Mandeville Films"
+    ]
+  },
+  {
+    "titulo": "Skylines 3",
+    "titulo_original": "Skylines",
+    "visao_geral": "Quando um vírus ameaça transformar os híbridos alienígenas amigáveis que agora vivem na Terra contra os humanos, a capitã Rose Corley deve liderar uma equipe de mercenários de elite em uma missão ao mundo alienígena para salvar o que resta da humanidade.",
+    "generos": [
+      "Ficção científica",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 110,
+    "id_filme": 560144,
+    "id_imdb": "tt9387250",
+    "media_de_votos": 5.587,
+    "total_votos": 521,
+    "popularidade": 26.619,
+    "receita": 0,
+    "produtoras": [
+      "Mirabelle Pictures Productions",
+      "Artbox",
+      "Fasten Films",
+      "Media Finance Capital",
+      "M45 Productions",
+      "Hydraulx",
+      "Gifflar Films Limited",
+      "Lipsync Productions"
+    ]
+  },
+  {
+    "titulo": "Inteligência Artificial: Ascensão das Máquinas",
+    "titulo_original": "A.I. Rising",
+    "visao_geral": "Um relacionamento íntimo entre um humano e um androide testa os limites da natureza humana.",
+    "generos": [
+      "Ficção científica",
+      "Drama",
+      "Romance"
+    ],
+    "tempo_duracao(minutos)": 85,
+    "id_filme": 505914,
+    "id_imdb": "tt5215088",
+    "media_de_votos": 5.022,
+    "total_votos": 269,
+    "popularidade": 25.499,
+    "receita": 0,
+    "produtoras": [
+      "Mir Media Group",
+      "Balkanic",
+      "Filmski centar Srbije"
+    ]
+  },
+  {
+    "titulo": "Operação Avalanche",
+    "titulo_original": "Operation Avalanche",
+    "visao_geral": "Em 1967, durante a guerra fria, quatro agentes da CIA se dirfançam de cineastas com a tarefa de se infiltrar na NASA e descobrir espiões. Fingindo ter a intenção de documentar a viagem da Terra à Lua, o que eles descobrem leva a uma das maiores conspirações na história dos Estados Unidos.",
+    "generos": [
+      "Thriller",
+      "Mistério",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 94,
+    "id_filme": 376453,
+    "id_imdb": "tt3776826",
+    "media_de_votos": 6.1,
+    "total_votos": 184,
+    "popularidade": 26.272,
+    "receita": 55000,
+    "produtoras": [
+      "Zapruder Films",
+      "XYZ Films",
+      "Resolute Films and Entertainment"
+    ]
+  },
+  {
+    "titulo": "O Buraco Negro",
+    "titulo_original": "The Black Hole",
+    "visao_geral": "Nave americana em viagem de pesquisas encontra cientista louco que tem sua espaçonave estacionada à beira de um buraco negro. Um capitão insano os captura e está determinado a levá-los ao vácuo espacial, numa viagem sem volta.",
+    "generos": [
+      "Aventura",
+      "Família",
+      "Ficção científica",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 98,
+    "id_filme": 9570,
+    "id_imdb": "tt0078869",
+    "media_de_votos": 5.847,
+    "total_votos": 460,
+    "popularidade": 26.178,
+    "receita": 35841901,
+    "produtoras": [
+      "Walt Disney Productions"
+    ]
+  },
+  {
+    "titulo": "Deu a Louca nos Nazis 2",
+    "titulo_original": "Iron Sky: The Coming Race",
+    "visao_geral": "Vinte anos após os eventos de Iron Sky, a antiga base lunar nazista tornou-se o último refúgio da humanidade. A Terra foi devastada por uma guerra nuclear, mas enterrada nas profundezas do deserto existe uma força que poderia salvar a humanidade - ou destruí-la de uma vez por todas. A verdade por trás da criação da humanidade será revelada quando um velho inimigo, liderar nossos heróis em uma aventura na Terra Oca. Para salvar a humanidade, eles devem lutar contra o Vril, uma antiga raça reptiliana que muda de forma e seu exército de dinossauros.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 93,
+    "id_filme": 302349,
+    "id_imdb": "tt3038708",
+    "media_de_votos": 5.107,
+    "total_votos": 364,
+    "popularidade": 26.146,
+    "receita": 400900,
+    "produtoras": [
+      "Potemkino",
+      "Iron sky universe",
+      "27 Films Production"
+    ]
+  },
+  {
+    "titulo": "Apollo 18",
+    "titulo_original": "Apollo 18",
+    "visao_geral": "Oficialmente, a Apollo 17 foi a última missão tripulada à Lua, tendo sido lançada em 17 de dezembro de 1972. Só que, um ano depois, foi enviado ao satélite uma missão sigilosa, a Apollo 18, financiada pelo Departamento de Defesa dos Estados Unidos. Apenas dois astronautas foram enviados e ambos não sabiam o que estavam por enfrentar. Quando um deles encontra um capacete rachado em pleno solo lunar eles percebem que há algo de errado ali.",
+    "generos": [
+      "Terror",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 86,
+    "id_filme": 50357,
+    "id_imdb": "tt1772240",
+    "media_de_votos": 5.298,
+    "total_votos": 957,
+    "popularidade": 26.142,
+    "receita": 25562924,
+    "produtoras": [
+      "Bazelevs Production",
+      "Dimension Films",
+      "Bekmambetov Projects Ltd."
+    ]
+  },
+  {
+    "titulo": "O Duende 4: No Espaço",
+    "titulo_original": "Leprechaun 4: In Space",
+    "visao_geral": "Em sua quarta aventura, o Duende reaparece no futuro, desta vez numa galáxia distante e dentro de uma nave espacial, aterrorizando um grupo de fuzileiros espaciais que ousaram libertar a bela princesa Zarina de suas garras.",
+    "generos": [
+      "Comédia",
+      "Fantasia",
+      "Terror",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 19287,
+    "id_imdb": "tt0116861",
+    "media_de_votos": 4.589,
+    "total_votos": 213,
+    "popularidade": 26.09,
+    "receita": 0,
+    "produtoras": [
+      "Front Street Studios",
+      "Blue Rider Pictures"
+    ]
+  },
+  {
+    "titulo": "Refúgio",
+    "titulo_original": "Tides",
+    "visao_geral": "Situado em um futuro distante, uma astronauta, naufragada na Terra há muito dizimada, deve decidir o destino da população remanescente do deserto.",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 104,
+    "id_filme": 760873,
+    "id_imdb": "tt6506264",
+    "media_de_votos": 5.646,
+    "total_votos": 240,
+    "popularidade": 25.855,
+    "receita": 328914,
+    "produtoras": [
+      "BerghausWöbke Filmproduktion",
+      "Vega Film",
+      "Constantin Film",
+      "Studio Babelsberg",
+      "SRF",
+      "SRG SSR"
+    ]
+  },
+  {
+    "titulo": "Deu a Louca nos Nazis",
+    "titulo_original": "Iron Sky",
+    "visao_geral": "No ano de 1945, os nazistas montaram uma base secreta na Lua, antes do final da Segunda Guerra Mundial, onde se mativeram escondidos planejando o seu regresso ao poder. Em 2018 eles estão retornando!",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 93,
+    "id_filme": 10679,
+    "id_imdb": "tt1034314",
+    "media_de_votos": 5.728,
+    "total_votos": 1539,
+    "popularidade": 25.665,
+    "receita": 10109659,
+    "produtoras": [
+      "Blind Spot Pictures",
+      "27 Films Production",
+      "New Holland Pictures"
+    ]
+  },
+  {
+    "titulo": "Buzz Lightyear do Comando Estelar - A Aventura Começa",
+    "titulo_original": "Buzz Lightyear of Star Command: The Adventure Begins",
+    "visao_geral": "O malvado imperador Zung e seus capangas capturam os Homenzinhos Verdes para descobrir segredo que pode levar ao controle do universo. Buzz e sua destemida equipe de cadetes entram em ação contra os terríveis criminosos.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Comédia",
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 70,
+    "id_filme": 16187,
+    "id_imdb": "tt0181196",
+    "media_de_votos": 6.385,
+    "total_votos": 317,
+    "popularidade": 25.631,
+    "receita": 0,
+    "produtoras": [
+      "Disney Television Animation",
+      "Walt Disney Pictures",
+      "Pixar",
+      "Walt Disney Home Video"
+    ]
+  },
+  {
+    "titulo": "Apollo 10 e Meio: Aventura na Era Espacial",
+    "titulo_original": "Apollo 10½: A Space Age Childhood",
+    "visao_geral": "Um homem relembra o ano de 1969 em Houston, quando ele tinha apenas 10 anos, construindo um relato nostálgico e fantástico da viagem à Lua.",
+    "generos": [
+      "Animação",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 98,
+    "id_filme": 664996,
+    "id_imdb": "tt7978758",
+    "media_de_votos": 7.05,
+    "total_votos": 250,
+    "popularidade": 20.059,
+    "receita": 0,
+    "produtoras": [
+      "Detour Filmproduction",
+      "Submarine"
+    ]
+  },
+  {
+    "titulo": "Starcrash",
+    "titulo_original": "Starcrash",
+    "visao_geral": "",
+    "generos": [
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 94,
+    "id_filme": 22049,
+    "id_imdb": "tt0079946",
+    "media_de_votos": 4.154,
+    "total_votos": 179,
+    "popularidade": 25.161,
+    "receita": 0,
+    "produtoras": [
+      "Nat and Patrick Wachsberger Productions",
+      "New World Pictures"
+    ]
+  }
+]

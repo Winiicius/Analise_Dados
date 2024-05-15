@@ -1,0 +1,1739 @@
+[
+  {
+    "titulo": "Դաս",
+    "titulo_original": "Դաս",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 18,
+    "id_filme": 306292,
+    "id_imdb": "tt0476193",
+    "media_de_votos": 3.7,
+    "total_votos": 10,
+    "popularidade": 1.313,
+    "receita": 0,
+    "produtoras": [
+      "Armenfilm"
+    ]
+  },
+  {
+    "titulo": "Stardust",
+    "titulo_original": "Stardust",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 205135,
+    "id_imdb": "tt2772646",
+    "media_de_votos": 6.2,
+    "total_votos": 8,
+    "popularidade": 1.803,
+    "receita": 0,
+    "produtoras": [
+      "PostPanic"
+    ]
+  },
+  {
+    "titulo": "The Quiet",
+    "titulo_original": "The Quiet",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 711096,
+    "id_imdb": "tt12031994",
+    "media_de_votos": 6.3,
+    "total_votos": 3,
+    "popularidade": 1.27,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Attack of the Moon Zombies",
+    "titulo_original": "Attack of the Moon Zombies",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 99,
+    "id_filme": 213156,
+    "id_imdb": "tt1878858",
+    "media_de_votos": 3.0,
+    "total_votos": 1,
+    "popularidade": 0.971,
+    "receita": 0,
+    "produtoras": [
+      "All For George Productions"
+    ]
+  },
+  {
+    "titulo": "The Terrible Thing of Alpha 9!",
+    "titulo_original": "The Terrible Thing of Alpha 9!",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 6,
+    "id_filme": 445338,
+    "id_imdb": "tt1481556",
+    "media_de_votos": 7.9,
+    "total_votos": 8,
+    "popularidade": 1.254,
+    "receita": 0,
+    "produtoras": [
+      "Visual Arts Foundation"
+    ]
+  },
+  {
+    "titulo": "DOPPELGÄNGER",
+    "titulo_original": "DOPPELGÄNGER",
+    "visao_geral": "",
+    "generos": [
+      "Drama",
+      "Ficção científica",
+      "Mistério",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 9,
+    "id_filme": 1214184,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.242,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Lo que pudo ser 2084",
+    "titulo_original": "Lo que pudo ser 2084",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 141,
+    "id_filme": 893765,
+    "id_imdb": "tt14529024",
+    "media_de_votos": 8.0,
+    "total_votos": 1,
+    "popularidade": 1.238,
+    "receita": 0,
+    "produtoras": [
+      "Samcreta"
+    ]
+  },
+  {
+    "titulo": "Spaceman",
+    "titulo_original": "Spaceman",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 7,
+    "id_filme": 1019312,
+    "id_imdb": null,
+    "media_de_votos": 9.0,
+    "total_votos": 2,
+    "popularidade": 1.232,
+    "receita": 0,
+    "produtoras": [
+      "Studio Peppermint"
+    ]
+  },
+  {
+    "titulo": "Scavenger",
+    "titulo_original": "Scavenger",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 547145,
+    "id_imdb": null,
+    "media_de_votos": 7.0,
+    "total_votos": 1,
+    "popularidade": 1.225,
+    "receita": 0,
+    "produtoras": [
+      "Canyon House Films"
+    ]
+  },
+  {
+    "titulo": "Any Last Words",
+    "titulo_original": "Any Last Words",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 1237861,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.194,
+    "receita": 0,
+    "produtoras": [
+      "41A Studios",
+      "EMRGE",
+      "Dope Pictures"
+    ]
+  },
+  {
+    "titulo": "Dust",
+    "titulo_original": "Dust",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 441497,
+    "id_imdb": "tt1619646",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.186,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Planet Escape",
+    "titulo_original": "Planet Escape",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Mistério",
+      "Drama",
+      "Fantasia"
+    ],
+    "tempo_duracao(minutos)": 18,
+    "id_filme": 1131099,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.167,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "SEQUENCE CANCELLED",
+    "titulo_original": "SEQUENCE CANCELLED",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Terror",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 15,
+    "id_filme": 1019846,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.148,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Infinitus",
+    "titulo_original": "Infinitus",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 726758,
+    "id_imdb": "tt10099700",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.141,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Sunday on the Moon",
+    "titulo_original": "Sunday on the Moon",
+    "visao_geral": "",
+    "generos": [
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 21,
+    "id_filme": 1264668,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.126,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Kung Fu Space Punch",
+    "titulo_original": "Kung Fu Space Punch",
+    "visao_geral": "",
+    "generos": [
+      "Aventura",
+      "Animação",
+      "Ficção científica",
+      "Faroeste"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 462361,
+    "id_imdb": "tt4881456",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.126,
+    "receita": 0,
+    "produtoras": [
+      "Reel FX Creative Studios"
+    ]
+  },
+  {
+    "titulo": "The Adventures of Timmy the Tooth: Timmy in Space",
+    "titulo_original": "The Adventures of Timmy the Tooth: Timmy in Space",
+    "visao_geral": "",
+    "generos": [
+      "Família",
+      "Aventura",
+      "Comédia",
+      "Música",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 28,
+    "id_filme": 877519,
+    "id_imdb": "tt0112301",
+    "media_de_votos": 6.0,
+    "total_votos": 1,
+    "popularidade": 1.11,
+    "receita": 0,
+    "produtoras": [
+      "Universal Studios Home Entertainment Family Productions",
+      "Bomp Productions"
+    ]
+  },
+  {
+    "titulo": "Star Wreck II: The Old Shit",
+    "titulo_original": "Star Wreck II: The Old Shit",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Comédia",
+      "Animação"
+    ],
+    "tempo_duracao(minutos)": 8,
+    "id_filme": 206917,
+    "id_imdb": "tt0978718",
+    "media_de_votos": 4.3,
+    "total_votos": 6,
+    "popularidade": 1.095,
+    "receita": 0,
+    "produtoras": [
+      "Energia Productions"
+    ]
+  },
+  {
+    "titulo": "Último Dia de Guerra",
+    "titulo_original": "Последний день войны",
+    "visao_geral": "A última guerra estourou. Todas as pessoas estão mortas, mas as máquinas continuam seguindo as ordens obedientemente. Na base automática, as máquinas abastecem e carregam as armas do último bombardeiro sobrevivente, preparando-se para lançar bombas na cidade inimiga morta. Isso acontece até que o eco da humanidade desapareça completamente. Então vem uma nova era em que não há lugar para nós.",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 6,
+    "id_filme": 434161,
+    "id_imdb": "tt5628376",
+    "media_de_votos": 6.7,
+    "total_votos": 3,
+    "popularidade": 1.041,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Ekvilibrium",
+    "titulo_original": "Ekvilibrium",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 6,
+    "id_filme": 878345,
+    "id_imdb": null,
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 1.032,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "White Lily",
+    "titulo_original": "White Lily",
+    "visao_geral": "",
+    "generos": [
+      "Drama",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 449946,
+    "id_imdb": "tt5918946",
+    "media_de_votos": 6.0,
+    "total_votos": 5,
+    "popularidade": 1.032,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "The Spacefarer's Lament",
+    "titulo_original": "The Spacefarer's Lament",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação"
+    ],
+    "tempo_duracao(minutos)": 3,
+    "id_filme": 1190782,
+    "id_imdb": null,
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 1.026,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Pluk, naufragé de l'espace",
+    "titulo_original": "Pluk, naufragé de l'espace",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação"
+    ],
+    "tempo_duracao(minutos)": 74,
+    "id_filme": 321155,
+    "id_imdb": "tt0271042",
+    "media_de_votos": 6.6,
+    "total_votos": 4,
+    "popularidade": 1.013,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Metruk",
+    "titulo_original": "Metruk",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 1128997,
+    "id_imdb": "tt26625884",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.988,
+    "receita": 0,
+    "produtoras": [
+      "Zaim Brothers Film"
+    ]
+  },
+  {
+    "titulo": "Moonless",
+    "titulo_original": "Moonless",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Mistério"
+    ],
+    "tempo_duracao(minutos)": 7,
+    "id_filme": 336764,
+    "id_imdb": "tt2619922",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.982,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Infinite",
+    "titulo_original": "Infinite",
+    "visao_geral": "",
+    "generos": [
+      "Drama",
+      "Romance",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 23,
+    "id_filme": 1150864,
+    "id_imdb": "tt3725870",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 1.373,
+    "receita": 0,
+    "produtoras": [
+      "ArkLight Pictures"
+    ]
+  },
+  {
+    "titulo": "Laser Cats",
+    "titulo_original": "Laser Cats",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 5,
+    "id_filme": 1117511,
+    "id_imdb": null,
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 0.976,
+    "receita": 0,
+    "produtoras": [
+      "Chi Alpha Productions"
+    ]
+  },
+  {
+    "titulo": "Monster Invaders from Space",
+    "titulo_original": "Monster Invaders from Space",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Terror",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 545624,
+    "id_imdb": "tt8924044",
+    "media_de_votos": 4.0,
+    "total_votos": 4,
+    "popularidade": 0.968,
+    "receita": 0,
+    "produtoras": [
+      "Vulture Entertainment"
+    ]
+  },
+  {
+    "titulo": "The Moon’s Milk",
+    "titulo_original": "The Moon’s Milk",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Fantasia",
+      "Animação"
+    ],
+    "tempo_duracao(minutos)": 14,
+    "id_filme": 618762,
+    "id_imdb": "tt7907368",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.964,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Weyland Industries Testimonial",
+    "titulo_original": "Weyland Industries Testimonial",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 1,
+    "id_filme": 1088108,
+    "id_imdb": "tt7458736",
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 0.958,
+    "receita": 0,
+    "produtoras": [
+      "20th Century Fox"
+    ]
+  },
+  {
+    "titulo": "Not Alone: The Incident",
+    "titulo_original": "Not Alone: The Incident",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 8,
+    "id_filme": 1244208,
+    "id_imdb": "tt31123431",
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 0.907,
+    "receita": 0,
+    "produtoras": [
+      "LSU Screen Arts"
+    ]
+  },
+  {
+    "titulo": "The Tiny Astronaut",
+    "titulo_original": "The Tiny Astronaut",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Terror",
+      "Mistério",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 3,
+    "id_filme": 831703,
+    "id_imdb": null,
+    "media_de_votos": 8.0,
+    "total_votos": 1,
+    "popularidade": 0.683,
+    "receita": 0,
+    "produtoras": [
+      "Smiley Cowboys"
+    ]
+  },
+  {
+    "titulo": "Movies in Space",
+    "titulo_original": "Movies in Space",
+    "visao_geral": "",
+    "generos": [
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 15,
+    "id_filme": 364490,
+    "id_imdb": "tt4419206",
+    "media_de_votos": 3.0,
+    "total_votos": 1,
+    "popularidade": 0.893,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Sol 87",
+    "titulo_original": "Sol 87",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 498740,
+    "id_imdb": null,
+    "media_de_votos": 7.0,
+    "total_votos": 1,
+    "popularidade": 0.892,
+    "receita": 0,
+    "produtoras": [
+      "Empty Can Films"
+    ]
+  },
+  {
+    "titulo": "Last Light of Orion",
+    "titulo_original": "Last Light of Orion",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 616182,
+    "id_imdb": "tt6636716",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.882,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Phantom",
+    "titulo_original": "Phantom",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 5,
+    "id_filme": 1052924,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.879,
+    "receita": 0,
+    "produtoras": [
+      "EstesFilms"
+    ]
+  },
+  {
+    "titulo": "The Fantastic Adventures of Henry Hawke",
+    "titulo_original": "The Fantastic Adventures of Henry Hawke",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 1009637,
+    "id_imdb": null,
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 0.878,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Voyager - BİR UZAY BİLİM KURGU ANİMASYON FİLMİ",
+    "titulo_original": "Voyager - BİR UZAY BİLİM KURGU ANİMASYON FİLMİ",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 1285963,
+    "id_imdb": null,
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 0.534,
+    "receita": 0,
+    "produtoras": [
+      "YDS Universal Production"
+    ]
+  },
+  {
+    "titulo": "Star Wreck IV: The Kilpailu",
+    "titulo_original": "Star Wreck IV: The Kilpailu",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 46,
+    "id_filme": 206919,
+    "id_imdb": "tt0978720",
+    "media_de_votos": 5.0,
+    "total_votos": 6,
+    "popularidade": 1.19,
+    "receita": 0,
+    "produtoras": [
+      "Energia Productions"
+    ]
+  },
+  {
+    "titulo": "Star Wreck 4½: Weak Performance",
+    "titulo_original": "Star Wreck 4½: Weak Performance",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Comédia",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 19,
+    "id_filme": 206923,
+    "id_imdb": "",
+    "media_de_votos": 6.0,
+    "total_votos": 1,
+    "popularidade": 0.907,
+    "receita": 0,
+    "produtoras": [
+      "Energia Productions"
+    ]
+  },
+  {
+    "titulo": "John Cameron Mitchell & Stephen Trask: Nation of One",
+    "titulo_original": "John Cameron Mitchell & Stephen Trask: Nation of One",
+    "visao_geral": "",
+    "generos": [
+      "Música",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 5,
+    "id_filme": 946205,
+    "id_imdb": "tt15027240",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.822,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "From the Earth to the Moon",
+    "titulo_original": "From the Earth to the Moon",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Documentário",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 30,
+    "id_filme": 761520,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.818,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Weltraumschiff 1 startet…",
+    "titulo_original": "Weltraumschiff 1 startet…",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 24,
+    "id_filme": 310942,
+    "id_imdb": "tt0348366",
+    "media_de_votos": 5.8,
+    "total_votos": 4,
+    "popularidade": 0.771,
+    "receita": 0,
+    "produtoras": [
+      "Bavaria-Filmkunst"
+    ]
+  },
+  {
+    "titulo": "ยักษ์วัดแจ้ง พบ จัมโบ้เอ",
+    "titulo_original": "ยักษ์วัดแจ้ง พบ จัมโบ้เอ",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Ação"
+    ],
+    "tempo_duracao(minutos)": 93,
+    "id_filme": 105007,
+    "id_imdb": "tt3263160",
+    "media_de_votos": 4.0,
+    "total_votos": 1,
+    "popularidade": 0.75,
+    "receita": 0,
+    "produtoras": [
+      "Tsuburaya Productions",
+      "Chaiyo Productions"
+    ]
+  },
+  {
+    "titulo": "Honour",
+    "titulo_original": "Honour",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 5,
+    "id_filme": 605592,
+    "id_imdb": "tt31229175",
+    "media_de_votos": 7.0,
+    "total_votos": 2,
+    "popularidade": 0.744,
+    "receita": 0,
+    "produtoras": [
+      "Team Tumult"
+    ]
+  },
+  {
+    "titulo": "Crazy Crabs From Outer Space",
+    "titulo_original": "Crazy Crabs From Outer Space",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 22,
+    "id_filme": 968752,
+    "id_imdb": "tt19860610",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.734,
+    "receita": 0,
+    "produtoras": [
+      "ELO Film School Finland",
+      "Fragile Ego Films"
+    ]
+  },
+  {
+    "titulo": "Melius Vivere: Ucup's Ideal Planet",
+    "titulo_original": "Melius Vivere: Ucup's Ideal Planet",
+    "visao_geral": "",
+    "generos": [
+      "Fantasia",
+      "Drama",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 1094664,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 1,
+    "popularidade": 0.715,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Black Box",
+    "titulo_original": "Black Box",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 7,
+    "id_filme": 716707,
+    "id_imdb": "tt9216748",
+    "media_de_votos": 3.5,
+    "total_votos": 2,
+    "popularidade": 0.711,
+    "receita": 0,
+    "produtoras": [
+      "DUST"
+    ]
+  },
+  {
+    "titulo": "I Would Like to Live on the Moon",
+    "titulo_original": "I Would Like to Live on the Moon",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 2,
+    "id_filme": 1188203,
+    "id_imdb": "tt29083939",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.702,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Voices from the Void",
+    "titulo_original": "Voices from the Void",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 1165357,
+    "id_imdb": "tt22767092",
+    "media_de_votos": 6.0,
+    "total_votos": 1,
+    "popularidade": 0.688,
+    "receita": 0,
+    "produtoras": [
+      "Paxeros"
+    ]
+  },
+  {
+    "titulo": "The Astronaut",
+    "titulo_original": "The Astronaut",
+    "visao_geral": "",
+    "generos": [
+      "Drama",
+      "Música",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 8,
+    "id_filme": 476509,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.682,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Terrafarmer",
+    "titulo_original": "Terrafarmer",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 2,
+    "id_filme": 461925,
+    "id_imdb": "tt1277148",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.677,
+    "receita": 0,
+    "produtoras": [
+      "Once Were Farmers"
+    ]
+  },
+  {
+    "titulo": "VGHW",
+    "titulo_original": "VGHW",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 78,
+    "id_filme": 1107219,
+    "id_imdb": "tt23863746",
+    "media_de_votos": 9.0,
+    "total_votos": 1,
+    "popularidade": 0.676,
+    "receita": 0,
+    "produtoras": [
+      "Wexler"
+    ]
+  },
+  {
+    "titulo": "Back to the Moon",
+    "titulo_original": "Back to the Moon",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 1035655,
+    "id_imdb": "tt22782092",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.66,
+    "receita": 0,
+    "produtoras": [
+      "HouseVision Productions"
+    ]
+  },
+  {
+    "titulo": "Incalculable Unknowns",
+    "titulo_original": "Incalculable Unknowns",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 899610,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.659,
+    "receita": 0,
+    "produtoras": [
+      "Biola University"
+    ]
+  },
+  {
+    "titulo": "มันมากับความมืด",
+    "titulo_original": "มันมากับความมืด",
+    "visao_geral": "",
+    "generos": [
+      "Terror",
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 140,
+    "id_filme": 229357,
+    "id_imdb": "tt4011600",
+    "media_de_votos": 6.0,
+    "total_votos": 1,
+    "popularidade": 0.656,
+    "receita": 0,
+    "produtoras": [
+      "Lavoa Film Studio"
+    ]
+  },
+  {
+    "titulo": "L.I.P.S.",
+    "titulo_original": "L.I.P.S.",
+    "visao_geral": "",
+    "generos": [
+      "Aventura",
+      "Animação",
+      "Comédia",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 22,
+    "id_filme": 447990,
+    "id_imdb": "tt4136036",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.649,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "All Aboard for the Moon",
+    "titulo_original": "All Aboard for the Moon",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 8,
+    "id_filme": 725440,
+    "id_imdb": "tt0228003",
+    "media_de_votos": 5.0,
+    "total_votos": 1,
+    "popularidade": 0.63,
+    "receita": 0,
+    "produtoras": [
+      "J.R. Bray Studios"
+    ]
+  },
+  {
+    "titulo": "My Alien Girlfriend 2",
+    "titulo_original": "My Alien Girlfriend 2",
+    "visao_geral": "",
+    "generos": [
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 912263,
+    "id_imdb": "tt14308466",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.561,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Infinity Unknown",
+    "titulo_original": "Infinity Unknown",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 1,
+    "id_filme": 950482,
+    "id_imdb": null,
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 0.524,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Escape from Velocity",
+    "titulo_original": "Escape from Velocity",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 21,
+    "id_filme": 1128225,
+    "id_imdb": "tt27561315",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": [
+      "Vinark Motion Pictures"
+    ]
+  },
+  {
+    "titulo": "0010: The Sharks Make Contact - Part 2",
+    "titulo_original": "0010: The Sharks Make Contact - Part 2",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 115,
+    "id_filme": 1121223,
+    "id_imdb": "tt10315070",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": [
+      "Ènèng Studios"
+    ]
+  },
+  {
+    "titulo": "The Sentra's Arrival",
+    "titulo_original": "The Sentra's Arrival",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 9,
+    "id_filme": 1096461,
+    "id_imdb": null,
+    "media_de_votos": 10.0,
+    "total_votos": 1,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "PLANT",
+    "titulo_original": "PLANT",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 18,
+    "id_filme": 776529,
+    "id_imdb": "tt12275324",
+    "media_de_votos": 5.0,
+    "total_votos": 2,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": [
+      "Lumex Film"
+    ]
+  },
+  {
+    "titulo": "Galaxia",
+    "titulo_original": "Galaxia",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Romance",
+      "Música"
+    ],
+    "tempo_duracao(minutos)": 5,
+    "id_filme": 700298,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": [
+      "Galaxy Sunset Pictures"
+    ]
+  },
+  {
+    "titulo": "CRYSTAL CLEAR",
+    "titulo_original": "CRYSTAL CLEAR",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Música",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 626228,
+    "id_imdb": "tt29478752",
+    "media_de_votos": 6.0,
+    "total_votos": 1,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Queen of the Andes",
+    "titulo_original": "Queen of the Andes",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 90,
+    "id_filme": 618303,
+    "id_imdb": "tt9382358",
+    "media_de_votos": 9.0,
+    "total_votos": 1,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": [
+      "Little Bear Productions"
+    ]
+  },
+  {
+    "titulo": "Apogee of Fear",
+    "titulo_original": "Apogee of Fear",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 8,
+    "id_filme": 468002,
+    "id_imdb": "tt6697288",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Journey",
+    "titulo_original": "Journey",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 8,
+    "id_filme": 455234,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Ravex In Tezuka World",
+    "titulo_original": "Ravex In Tezuka World",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 18,
+    "id_filme": 400161,
+    "id_imdb": "",
+    "media_de_votos": 5.0,
+    "total_votos": 1,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": [
+      "Avex Entertainment"
+    ]
+  },
+  {
+    "titulo": "Budhayaan",
+    "titulo_original": "Budhayaan",
+    "visao_geral": "",
+    "generos": [
+      "Drama",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 90,
+    "id_filme": 364805,
+    "id_imdb": "",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Solar",
+    "titulo_original": "Solar",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 346906,
+    "id_imdb": "tt1186669",
+    "media_de_votos": 5.5,
+    "total_votos": 2,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Moon Dust",
+    "titulo_original": "Moon Dust",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 95,
+    "id_filme": 344089,
+    "id_imdb": "tt1193629",
+    "media_de_votos": 5.0,
+    "total_votos": 3,
+    "popularidade": 0.504,
+    "receita": 0,
+    "produtoras": [
+      "Scott Reeder Entertainment"
+    ]
+  },
+  {
+    "titulo": "Beyond: The Motion Picture",
+    "titulo_original": "Beyond: The Motion Picture",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 71,
+    "id_filme": 787282,
+    "id_imdb": null,
+    "media_de_votos": 8.0,
+    "total_votos": 1,
+    "popularidade": 0.458,
+    "receita": 0,
+    "produtoras": [
+      "Innovative Arts",
+      "Underdog Pictures",
+      "Jackson Motion"
+    ]
+  },
+  {
+    "titulo": "Red Mission",
+    "titulo_original": "Red Mission",
+    "visao_geral": "",
+    "generos": [
+      "Thriller",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 24,
+    "id_filme": 420340,
+    "id_imdb": "tt4707150",
+    "media_de_votos": 4.8,
+    "total_votos": 4,
+    "popularidade": 0.429,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "The Last Survivor",
+    "titulo_original": "The Last Survivor",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 6,
+    "id_filme": 592177,
+    "id_imdb": null,
+    "media_de_votos": 8.5,
+    "total_votos": 2,
+    "popularidade": 0.411,
+    "receita": 0,
+    "produtoras": [
+      "Nocturnus Film"
+    ]
+  },
+  {
+    "titulo": "GO INCREDIBLY FAST",
+    "titulo_original": "GO INCREDIBLY FAST",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 1191338,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.393,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Новеллы о космосе",
+    "titulo_original": "Новеллы о космосе",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 10,
+    "id_filme": 199318,
+    "id_imdb": "tt2955460",
+    "media_de_votos": 6.5,
+    "total_votos": 2,
+    "popularidade": 0.546,
+    "receita": 0,
+    "produtoras": [
+      "Soyuzmultfilm"
+    ]
+  },
+  {
+    "titulo": "OPIAH",
+    "titulo_original": "OPIAH",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 1090537,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.372,
+    "receita": 0,
+    "produtoras": [
+      "Supinfocom RUBIKA"
+    ]
+  },
+  {
+    "titulo": "Mercury Corp.",
+    "titulo_original": "Mercury Corp.",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 6,
+    "id_filme": 817952,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.216,
+    "receita": 0,
+    "produtoras": [
+      "ESDIP"
+    ]
+  },
+  {
+    "titulo": "Under the Rainbow",
+    "titulo_original": "Under the Rainbow",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 90,
+    "id_filme": 674820,
+    "id_imdb": "tt0169346",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.216,
+    "receita": 0,
+    "produtoras": [
+      "Bunk Films",
+      "Jovian Pictures"
+    ]
+  },
+  {
+    "titulo": "The Menace From Space",
+    "titulo_original": "The Menace From Space",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 35,
+    "id_filme": 660581,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.307,
+    "receita": 0,
+    "produtoras": [
+      "Gray Wolf Pictures"
+    ]
+  },
+  {
+    "titulo": "15 Sonyeon Uju Pyoryugi",
+    "titulo_original": "15소년 우주 표류기",
+    "visao_geral": "Um filme coreano sobre um grupo de crianças salvando a galáxia.",
+    "generos": [
+      "Ficção científica",
+      "Animação"
+    ],
+    "tempo_duracao(minutos)": 70,
+    "id_filme": 519226,
+    "id_imdb": "tt29270922",
+    "media_de_votos": 5.0,
+    "total_votos": 2,
+    "popularidade": 0.216,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "The Hum",
+    "titulo_original": "The Hum",
+    "visao_geral": "",
+    "generos": [
+      "Terror",
+      "Drama",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 20,
+    "id_filme": 1123599,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.354,
+    "receita": 0,
+    "produtoras": [
+      "Dead End Film House"
+    ]
+  },
+  {
+    "titulo": "Fly Home",
+    "titulo_original": "Fly Home",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 3,
+    "id_filme": 874838,
+    "id_imdb": "tt10930336",
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.354,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Um Asteroide Pequeno que Todos Chamam de Lua",
+    "titulo_original": "Um Asteroide Pequeno que Todos Chamam de Lua",
+    "visao_geral": "Este curta caseiro e totalmente experimental narra a história do dia em que a terra recebeu seu primeiro pequeno passo de fora do planeta.",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 1,
+    "id_filme": 688473,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.315,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Aboard The Collective",
+    "titulo_original": "Aboard The Collective",
+    "visao_geral": "",
+    "generos": [
+      "Animação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 1126409,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.304,
+    "receita": 0,
+    "produtoras": [
+      "Sörängens folkhögskola"
+    ]
+  },
+  {
+    "titulo": "Space Terror",
+    "titulo_original": "Space Terror",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica"
+    ],
+    "tempo_duracao(minutos)": 4,
+    "id_filme": 816580,
+    "id_imdb": "tt14419274",
+    "media_de_votos": 9.7,
+    "total_votos": 3,
+    "popularidade": 0.268,
+    "receita": 0,
+    "produtoras": [
+      "Sabotage Film"
+    ]
+  },
+  {
+    "titulo": "Caïn",
+    "titulo_original": "Caïn",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Thriller"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 1235219,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.241,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Il mostro tossico",
+    "titulo_original": "Il mostro tossico",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Terror",
+      "Mistério",
+      "Comédia"
+    ],
+    "tempo_duracao(minutos)": 104,
+    "id_filme": 869378,
+    "id_imdb": null,
+    "media_de_votos": 6.0,
+    "total_votos": 1,
+    "popularidade": 0.223,
+    "receita": 0,
+    "produtoras": [
+      "aRmour Film",
+      "Giranum Films",
+      "Wolfman Production",
+      "Milk Animation"
+    ]
+  },
+  {
+    "titulo": "Journey to the moon",
+    "titulo_original": "Journey to the moon",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 0,
+    "id_filme": 1024522,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.216,
+    "receita": 0,
+    "produtoras": [
+      "Prime Stuff Studios"
+    ]
+  },
+  {
+    "titulo": "2088 Space Odyssey",
+    "titulo_original": "2088 Space Odyssey",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Drama"
+    ],
+    "tempo_duracao(minutos)": 7,
+    "id_filme": 740733,
+    "id_imdb": null,
+    "media_de_votos": 0.0,
+    "total_votos": 0,
+    "popularidade": 0.216,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "Spacebound",
+    "titulo_original": "Spacebound",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Animação",
+      "Aventura",
+      "Família",
+      "Fantasia"
+    ],
+    "tempo_duracao(minutos)": 3,
+    "id_filme": 371888,
+    "id_imdb": "tt2958552",
+    "media_de_votos": 4.0,
+    "total_votos": 1,
+    "popularidade": 0.216,
+    "receita": 0,
+    "produtoras": []
+  },
+  {
+    "titulo": "The Garden",
+    "titulo_original": "The Garden",
+    "visao_geral": "",
+    "generos": [
+      "Ficção científica",
+      "Aventura"
+    ],
+    "tempo_duracao(minutos)": 7,
+    "id_filme": 354271,
+    "id_imdb": "tt4493860",
+    "media_de_votos": 9.0,
+    "total_votos": 1,
+    "popularidade": 0.216,
+    "receita": 0,
+    "produtoras": []
+  }
+]
